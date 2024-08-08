@@ -12,7 +12,7 @@ load_dotenv()
 # API 키 설정 및 클라이언트 생성
 api_key = os.getenv('OPENAI_API_KEY')
 client = OpenAI(api_key=api_key)
-model_link = 'finance'  # 모델 링크
+model_link = 'https://api.your-platform.com/v1/engines/finance_LAGUNHO/completions'  # 모델 링크
 
 def call_custom_gpt(messages):
     response = client.chat.completions.create(
