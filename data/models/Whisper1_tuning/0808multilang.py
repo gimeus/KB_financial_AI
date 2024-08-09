@@ -8,7 +8,7 @@ Original file is located at
 """
 
 # 필요한 라이브러리 설치
-!pip install transformers datasets torchaudio huggingface_hub
+# pip install transformers datasets torchaudio huggingface_hub
 
 import torch
 import torchaudio
