@@ -31,6 +31,5 @@ textarea {
   flex-direction: column;
   justify-content: flex-start;
   border-top: 1px solid #ddd;
-  overflow-y: auto; /* 메시지 창만 스크롤 가능하도록 설정 */
   overflow-y: auto; /* 메시지 창만 스크롤 가능 설정 */
 }
