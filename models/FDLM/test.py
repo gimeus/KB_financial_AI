@@ -32,8 +32,14 @@ def load_csv_data(csv_file):
         print(f"CSV 파일 로드 오류: {e}")
         return None
 
-def query_csv_data(context, question, chunk_size=3000):
-    """CSV 데이터를 기반으로 OpenAI API를 사용해 질의에 응답."""
+def filter_data(df, keywords):
+    """주어진 키워드를 사용해 데이터프레임 필터링."""
+    mask = df.apply(lambda row: row.astype(str).str.contains('|'.join(keywords), case=False).any(), axis=1)
+    filtered_df = df[mask]
+    return filtered_df.to_string(index=False)
+
+def query_csv_data(context, question, chunk_size=100):
+    """필터링된 데이터를 기반으로 OpenAI API를 사용해 질의에 응답."""
     summaries = []
     for i in range(0, len(context), chunk_size):
         chunk = context[i:i + chunk_size]
@@ -43,7 +49,7 @@ def query_csv_data(context, question, chunk_size=3000):
             response = client.chat.completions.create(
                 model="gpt-4o",
                 messages=[
-                    {"role": "system", "content": "You are a helpful assistant."},
+                    {"role": "system", "content": "You are a helpful assistant. Keep responses very short and concise. Expand only if asked."},
                     {"role": "user", "content": prompt}
                 ]
             )
@@ -71,7 +77,7 @@ def main():
         print(f"\n{language} CSV 파일을 로드 중입니다: {csv_file}")
         df = load_csv_data(csv_file)
         if df is not None:
-            loaded_data[language] = df.to_string(index=False)
+            loaded_data[language] = df
         else:
             print(f"{language} CSV 데이터를 로드하는 데 실패했습니다.")
             return
@@ -85,13 +91,17 @@ def main():
             continue
 
         question = input(f"{language} 데이터에 대해 질문을 입력하세요: ")
-        context = loaded_data[language]
-        answer = query_csv_data(context, question)
+        keywords = question.split()  # 질문을 키워드로 분할
+        filtered_context = filter_data(loaded_data[language], keywords)
 
-        if answer:
-            print(f"\n{language}에 대한 답변: {answer}")
+        if filtered_context.strip():  # 필터된 데이터가 비어있지 않으면
+            answer = query_csv_data(filtered_context, question)
+            if answer:
+                print(f"\n{language}에 대한 답변: {answer}")
+            else:
+                print("응답을 생성하는 데 실패했습니다.")
         else:
-            print("응답을 생성하는 데 실패했습니다.")
+            print("관련된 데이터를 찾지 못했습니다.")
 
 if __name__ == "__main__":
     main()
