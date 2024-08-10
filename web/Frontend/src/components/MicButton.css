@@ -1,0 +1,19 @@
+.mic-button {
+  width: 46px;
+  height: 46px;
+  background-color: rgba(118, 101, 84, 0.8);
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  position: absolute;
+  bottom: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* margin-bottom: 24px; */
+}
+
+.mic-icon {
+  width: 24px;
+  height: 24px;
+}
