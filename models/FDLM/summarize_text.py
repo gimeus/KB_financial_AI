@@ -100,10 +100,10 @@ if __name__ == "__main__":
     if check_openai_connection():
         # 각 언어별로 텍스트 파일을 읽어와서 요약 후 CSV로 저장
         text_files = [
-            ("../../data/Dataset/financeData/txtData/cleaned_text_베트남어.txt", "../../data/Dataset/financeData/processedData/베트남어_금융_가이드.csv", "Vietnamese"),
-            ("../../data/Dataset/financeData/txtData/cleaned_text_영어.txt", "../../data/Dataset/financeData/processedData/영어_금융_가이드.csv", "English"),
-            ("../../data/Dataset/financeData/txtData/cleaned_text_중국어.txt", "../../data/Dataset/financeData/processedData/중국어_금융_가이드.csv", "Chinese"),
-            ("../../data/Dataset/financeData/txtData/cleaned_text_태국어.txt", "../../data/Dataset/financeData/processedData/태국어_금융_가이드.csv", "Thai")
+            ("../../data/Dataset/financeData/txtData/pdf_cleaned_text_베트남어.txt", "../../data/Dataset/financeData/processedData/베트남어_금융_가이드.csv", "Vietnamese"),
+            ("../../data/Dataset/financeData/txtData/pdf_cleaned_text_영어.txt", "../../data/Dataset/financeData/processedData/영어_금융_가이드.csv", "English"),
+            ("../../data/Dataset/financeData/txtData/pdf_cleaned_text_중국어.txt", "../../data/Dataset/financeData/processedData/중국어_금융_가이드.csv", "Chinese"),
+            ("../../data/Dataset/financeData/txtData/pdf_cleaned_text_태국어.txt", "../../data/Dataset/financeData/processedData/태국어_금융_가이드.csv", "Thai")
         ]
 
         for text_file, csv_file, language in text_files:

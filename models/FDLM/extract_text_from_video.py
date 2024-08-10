@@ -37,7 +37,7 @@ def process_videos_for_language(language, video_urls, output_path):
 
         cap.release()
 
-    text_file_path = os.path.join(output_path, f'{language}_extracted_text.txt')
+    text_file_path = os.path.join(output_path, f'youtube_cleaned_text_{language}.txt')
     with open(text_file_path, 'w', encoding='utf-8') as f:
         f.writelines(extracted_text)
     print(f"{language} 언어의 텍스트 추출이 완료되었습니다: {text_file_path}")
@@ -47,10 +47,12 @@ def main():
     text_output_path = '../../data/Dataset/financeData/txtData/'
     os.makedirs(video_output_path, exist_ok=True)
     os.makedirs(text_output_path, exist_ok=True)
+    
+    links_file_path = '../../data/Dataset/financeData/youtube_links.txt'  # youtube_links.txt 파일의 경로 설정
     language = None
     video_urls = []
 
-    with open('youtube_links.txt', 'r', encoding='utf-8') as file:
+    with open(links_file_path, 'r', encoding='utf-8') as file:
         for line in file:
             line = line.strip()
             if line.startswith("#"):
@@ -66,6 +68,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
