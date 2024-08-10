@@ -163,7 +163,7 @@ with torch.no_grad():
 transcription = processor.batch_decode(generated_ids, skip_special_tokens=True)[0]
 print("Transcription:", transcription)
 
-!pip install transformers
+# !pip install transformers
 
 # from transformers import GPT2Tokenizer, GPT2LMHeadModel
 
