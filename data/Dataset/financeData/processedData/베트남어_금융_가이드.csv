@@ -1,0 +1,764 @@
+﻿Section,Summary
+General,"Cuốn ""Cẩm Nang Tài Chính cho Người Nước Ngoài"" do Viện Giám Sát Tài Chính Hàn Quốc biên soạn nhằm hỗ trợ người nước ngoài sống và làm việc tại Hàn Quốc trong việc quản lý tài chính. Sách cung cấp thông tin về cách mở tài khoản ngân hàng, sử dụng internet và mobile banking, đóng phí tiện ích, và các loại hình dịch vụ ngân hàng như gửi tiền, tiết kiệm, cũng như các dịch vụ tài chính khác. Ngoài ra, sách còn hướng dẫn về việc sử dụng thẻ tín dụng, các chương trình bảo hiểm như bảo hiểm y tế, lao động, hưu trí và cách chuyển tiền quốc tế. Cuối cùng, cuốn sách nêu rõ các hình thức lừa đảo tài chính và cách phòng tránh để người nước ngoài có thể sống và làm việc an toàn tại Hàn Quốc. Văn bản trên giới thiệu một cuốn sách hướng dẫn được xuất bản vào tháng 6 năm 2022 nhằm hỗ trợ người nước ngoài sống tại Hàn Quốc về các vấn đề tài chính. Cuốn sách này được biên soạn lại từ phiên bản đầu tiên năm 2015 để cập nhật những thay đổi trong môi trường và quy định tài chính, đồng thời bổ sung thông tin hữu ích về các dịch vụ tài chính mà người nước ngoài thường xuyên sử dụng.
+
+Cuốn sách được chia thành sáu phần chính:
+1. **Sử dụng dịch vụ ngân hàng:** Cung cấp chi tiết về mở tài khoản ngân hàng, sử dụng máy ATM, internet và mobile banking, và cách đóng chi phí tiện ích.
+2. **Sử dụng các sản phẩm tiết kiệm:** Giới thiệu về các loại tiền gửi tiết kiệm, sản phẩm tiết kiệm có ưu đãi thuế, và các gói tiết kiệm để mua nhà.
+3. **Sử dụng thẻ:** Hướng dẫn cách sử dụng thẻ tín dụng và thẻ ghi nợ, cùng với các lợi ích của thẻ giao thông và thẻ hỗ trợ sinh hoạt.
+4. **Sử dụng bảo hiểm:** Cung cấp thông tin về bảo hiểm xã hội bao gồm bảo hiểm y tế quốc dân, bảo hiểm lao động, bảo hiểm bồi thường tai nạn công nghiệp, bảo hiểm hưu trí, và bảo hiểm dành riêng cho người lao động nước ngoài.
+5. **Hiểu và sử dụng ngoại tệ:** Hướng dẫn về tỷ giá hối đoái, các phương pháp đổi tiền và chuyển tiền quốc tế.
+6. **Phòng chống gian lận tài chính:** Cảnh báo về các loại gian lận tài chính như lừa đảo qua điện thoại, tin nhắn, và cách để tránh bị lừa đảo.
+
+Cuốn sách này hy vọng sẽ giúp người nước ngoài tại Hàn Quốc có thể tự tin và an toàn trong các hoạt động tài chính hàng ngày. Bài viết này đề cập đến các loại bảo hiểm và các phương thức chuyển tiền ra nước ngoài, và cách phòng tránh lừa đảo tài chính. 
+
+**Các loại bảo hiểm:**
+1. **Bảo hiểm hồi hương và tai nạn:** Chi phí cho việc trở về và bảo hiểm tai nạn.
+2. **Bảo hiểm mãn hạn xuất cảnh và bảo hiểm bảo đảm:** Đảm bảo quyền lợi khi kết thúc khách hàng rời khỏi quốc gia.
+3. **Bảo hiểm tư nhân:** Bao gồm bảo hiểm nhân thọ, bệnh tật, xe ô tô, lương hưu, biến đổi chi phí với mục đích giảm bớt khó khăn cho gia đình, đảm bảo sức khỏe, bồi thường thiệt hại, bảo đảm cuộc sống tuổi già và bảo hiểm có lãi suất.
+
+**Chuyển tiền ra nước ngoài:**
+1. **Đổi tiền:** Giải thích về tỷ giá và cách tra cứu tỷ giá.
+2. **Các phương thức chuyển tiền quốc tế:** Bao gồm thông qua quầy giao dịch tại ngân hàng, internet banking và mobile banking, công ty chuyên chuyển tiền, dịch vụ qua ATM, dịch vụ đặc biệt của ngân hàng và các công ty Fintech nhỏ.
+
+**Phòng tránh lừa đảo tài chính:**
+1. **Lừa đảo qua điện thoại (voice phishing):** Đặc điểm và cách phòng ngừa.
+2. **Lừa đảo bằng tin nhắn:** Đặc điểm và cách phòng tránh.
+3. **Lừa đảo qua internet và smartphone:** Pharming và Smishing, với cách phòng tránh.
+4. **Lừa đảo với danh nghĩa cho vay tiền:** Đặc điểm và cách phòng tránh.
+5. **Lừa đảo tài chính bằng tài khoản chuyên dụng:** Đặc điểm và cách phòng tránh.
+6. **Lừa đảo bảo hiểm:** Đặc điểm của lừa đảo bảo hiểm.
+
+Bài viết tập trung vào việc giáo dục người đọc về các loại bảo hiểm cần thiết, cách chuyển tiền an toàn ra nước ngoài cùng với các biện pháp phòng tránh lừa đảo để bảo vệ tài sản cá nhân một cách hiệu quả. Tài liệu này cung cấp những thông tin và hướng dẫn về việc sử dụng dịch vụ ngân hàng tại Hàn Quốc, bao gồm các chủ đề như phòng tránh lừa đảo bảo hiểm, danh sách các chi nhánh ngân hàng và số điện thoại tổng đài tư vấn dành riêng cho người nước ngoài. Nội dung chính bao gồm các phần:
+
+1. Tiền và giao dịch tài chính:
+   - Tiền Hàn Quốc và giá trị của tiền.
+   - Các công ty tài chính tại Hàn Quốc.
+   - Cơ quan liên quan về tài chính.
+
+2. Sử dụng dịch vụ ngân hàng:
+   - Làm sổ ngân hàng (mở tài khoản).
+   - Sử dụng quầy tư vấn tại ngân hàng.
+   - Sử dụng máy gửi rút tiền mặt tự động (ATM).
+   - Sử dụng internet banking (dịch vụ tài chính điện tử).
+   - Sử dụng mobile banking.
+
+3. Đóng chi phí tiện ích:
+   - Chi phí tiện ích là gì.
+   - Cách đóng chi phí tiện ích.
+
+Ngoài ra, tài liệu còn chia sẻ câu chuyện thực tế về sinh hoạt tài chính của người dùng tại Hàn Quốc, từ đó cung cấp những kinh nghiệm và lời khuyên hữu ích khi sử dụng các dịch vụ ngân hàng. Người dùng cũng được hướng dẫn cách xử lý các vấn đề thông qua internet banking và mobile banking, đồng thời nhận được cảnh báo về những rủi ro có thể gặp phải và cách giải quyết chúng. Tóm tắt:
+
+Đoạn văn này giới thiệu về các nghiệp vụ cơ bản của ngân hàng như gửi tiền, rút tiền, chuyển khoản cũng như cách sử dụng internet banking và mobile banking. Sau khi học nội dung này, bạn sẽ có thể tự mình giao dịch tại ngân hàng mà không gặp khó khăn. Ngoài ra, bài viết còn giải thích về tiền Hàn Quốc, gồm tiền xu và tiền giấy, cũng như giá trị của từng loại tiền và giá trị tiền tệ trong cuộc sống hàng ngày. Cuối cùng, đoạn văn cũng đề cập đến việc sử dụng các công ty tài chính tại Hàn Quốc, lợi ích của việc gửi tiền tại ngân hàng và an toàn hơn so với việc giữ tiền mặt ở nhà. Bài viết giới thiệu về các loại hình công ty tài chính, bao gồm ngân hàng và các công ty tài chính không phải ngân hàng. Ngân hàng thực hiện nhiều nghiệp vụ liên quan đến tiền tệ như gửi tiền, rút tiền, cho vay, chuyển tiền, đổi tiền, làm thẻ, và đóng các loại phí. Ở Hàn Quốc, sử dụng ngân hàng là một phần không thể thiếu trong cuộc sống hàng ngày.
+
+Ngoài ra, có các công ty tài chính khác như Ngân hàng tiết kiệm Tương hỗ, Saemaul Geumgo, hợp tác xã tín dụng, hợp tác xã nông nghiệp (Nonghyup), hợp tác xã thủy sản (Suhyup), và Bưu điện. Chúng có cách thức hoạt động tương tự ngân hàng nhưng lãi suất gửi và vay tiền thường cao hơn.
+
+Có nhiều công ty tài chính khác như công ty bảo hiểm, công ty chứng khoán, và công ty thẻ tín dụng cũng thường xuyên được sử dụng. Các giao dịch tài chính hiện nay chủ yếu qua internet banking và mobile banking, nhưng khi cần làm sổ tài khoản hoặc hỗ trợ, việc đến công ty tài chính gần nhà sẽ tiện lợi hơn.
+
+Ngân hàng Hàn Quốc là ngân hàng trung ương chịu trách nhiệm phát hành và điều chỉnh lượng tiền tệ lưu hành. Viện giám sát tài chính đảm bảo các giao dịch tài chính diễn ra công bằng và duy trì trật tự tín dụng, bảo vệ người tiêu dùng tài chính và cung cấp thông tin hữu ích, giải quyết các vấn đề cho người tiêu dùng, và thực hiện giáo dục tài chính. Bài viết này hướng dẫn cách tạo ngân hàng giao dịch chính và mở tài khoản ngân hàng cho người nước ngoài và gia đình đa văn hóa. Người dùng nên chọn một ngân hàng thường xuyên giao dịch để nhận nhiều ưu đãi như giảm phí, lãi suất ưu đãi cho chuyển tiền và tiết kiệm. Khi mở tài khoản, cần đến ngân hàng và thực hiện theo hướng dẫn của nhân viên, kèm theo giấy tờ tùy thân và chứng minh mục đích giao dịch tài chính. Ngoài ra, việc bảo mật số bí mật cũng rất quan trọng để tránh nguy cơ bị hack. Nếu chi nhánh ngân hàng có quầy giao dịch cho người nước ngoài thì sẽ thuận tiện hơn vì có dịch vụ bằng tiếng nước ngoài. Tóm tắt:
+
+1. **Không cho người khác mượn sổ tài khoản**:
+   - Không ghi mã pin vào sổ tài khoản hoặc nói với bên thứ ba.
+   - Không cho người khác mượn sổ tài khoản vì có thể bị lừa đảo và đây là hành vi trái pháp luật, có thể bị phạt hình sự. Nếu sổ tài khoản cho mượn bị dùng vào việc phạm pháp, hình phạt sẽ nghiêm trọng hơn.
+   - Khi mất sổ tài khoản phải báo ngay cho ngân hàng và làm theo hướng dẫn của nhân viên ngân hàng.
+
+2. **Thủ tục làm sổ ngân hàng**:
+   - **Chuẩn bị**: Giấy tờ tùy thân (hộ chiếu, thẻ đăng ký người nước ngoài, chứng minh thư), con dấu (ký tên), hồ sơ chứng nhận mục đích giao dịch tài chính.
+   - **Rút số thứ tự**: Rút phiếu báo số thứ tự và chờ đến khi số của mình xuất hiện trên bảng điện tử.
+   - **Tư vấn với nhân viên ngân hàng**: Nói với nhân viên ngân hàng lý do đến và có thể đăng ký thêm dịch vụ internet banking, thẻ rút tiền mặt.
+   - **Điền vào bản đăng ký**: Viết các thông tin chính xác như số chứng minh, ngày tháng năm sinh, địa chỉ, số điện thoại, đóng dấu (ký tên).
+   - **Xác định số bí mật**: Chọn số bí mật gồm 4 chữ số cho sổ ngân hàng và thẻ rút tiền mặt.
+   - **Kiểm tra sổ đã cấp**: Nhận và bảo quản sổ ngân hàng, thẻ tiền mặt đã làm. Văn bản trên nói về việc sử dụng máy ATM để thực hiện các giao dịch ngân hàng. Sử dụng máy ATM có lợi thế là có thể xử lý công việc chính xác mà không cần sự trợ giúp của nhân viên ngân hàng và không bị giới hạn bởi thời gian làm việc của ngân hàng. Máy ATM có thể thực hiện các giao dịch như rút tiền, gửi tiền, chuyển tiền, và kiểm tra số dư tài khoản chỉ với thẻ ngân hàng hoặc sổ chi phiếu. Ngoài ra, đa số các máy ATM còn hỗ trợ nhiều ngôn ngữ khác nhau, giúp người dùng cảm thấy tiện lợi hơn. Khi sử dụng ATM, cần chú ý bảo mật thông tin cá nhân và mật khẩu. Tóm tắt văn bản sau:
+
+Khi rút tiền tại ATM của ngân hàng khác sẽ mất phí khoảng từ 600 đến 1,000 won. Để tiết kiệm, nên sử dụng ATM của ngân hàng bạn thường xuyên giao dịch. Số tiền rút tối đa cho mỗi lần thường là từ 700,000 đến 1,000,000 won, và giới hạn rút trong ngày khoảng 6,000,000 won. Nếu cần rút số tiền lớn, phải đến quầy giao dịch tại ngân hàng.
+
+Hướng dẫn rút tiền từ ATM:
+1. Đưa thẻ hoặc sổ vào máy.
+2. Ấn nút ""rút tiền.""
+3. Nhập số bí mật.
+4. Nhập số tiền cần rút.
+5. Chọn loại tiền muốn rút.
+6. Xác nhận mức tiền và loại tiền.
+7. In hóa đơn nếu cần.
+8. Kiểm tra số tiền rút có đúng không.
+
+Hướng dẫn chuyển khoản qua ATM:
+1. Đưa thẻ hoặc sổ vào máy.
+2. Ấn nút ""chuyển khoản.""
+3. Nhập số bí mật.
+4. Chọn ngân hàng cần chuyển khoản. Văn bản này hướng dẫn về cách sử dụng dịch vụ ngân hàng tại Hàn Quốc, cụ thể qua máy ATM và Internet banking.
+
+1. Để chuyển tiền qua ATM:
+   - Nhập số tài khoản của người nhận (bỏ dấu '-').
+   - Nhập số tiền chuyển và kiểm tra thông tin người nhận, sau đó xác nhận.
+   - Có thể in hoá đơn để có chi tiết giao dịch.
+
+2. Kiểm tra tài khoản qua ATM:
+   - Có thể kiểm tra số dư, lịch sử giao dịch gửi và rút tiền.
+   - Đưa thẻ hoặc sổ tài khoản vào máy ATM, nhấn nút kiểm tra và nhập mật khẩu.
+
+3. Sao kê giao dịch:
+   - Đưa sổ tài khoản vào máy ATM và nhấn nút sao kê để in ra nội dung giao dịch.
+
+4. Kinh nghiệm sử dụng ATM:
+   - Ban đầu gặp khó khăn vì máy ATM hiển thị tiếng Hàn, nhưng sau khi nhấn nút ""hỗ trợ ngôn ngữ"" (foreign languages), có thể đổi sang tiếng Việt, tiếng Anh và các ngôn ngữ khác.
+
+Cuối cùng là hướng dẫn đăng ký và sử dụng dịch vụ Internet banking:
+   - Cần sử dụng máy tính hoặc thiết bị có kết nối internet để đăng ký và thực hiện các giao dịch trực tuyến. Đoạn văn mô tả quy trình và lợi ích của việc sử dụng dịch vụ ngân hàng điện tử (internet banking). Người dùng không cần đến ngân hàng và có thể thực hiện nhiều giao dịch như kiểm tra tài khoản, chuyển khoản với phí thấp hơn; đồng thời còn nhận được các ưu đãi về lãi suất khi tham gia các sản phẩm tiết kiệm.
+
+Để đăng ký sử dụng internet banking, người dùng cần mang giấy tờ tùy thân đến ngân hàng và điền đơn đăng ký, chọn ID đăng nhập, thiết lập mật khẩu chuyển tiền và hạn mức chuyển khoản trong ngày, cũng như lựa chọn giữa thẻ bảo an hoặc OTP để bảo mật. Sau khi đăng ký tại ngân hàng, người dùng còn cần tiến hành chứng thực điện tử trên trang web của ngân hàng tại nhà.
+
+Một số ngân hàng còn cung cấp dịch vụ hỗ trợ bằng các tiếng nước ngoài như tiếng Anh, Trung Quốc, Việt Nam, và Nga để người dùng có thể dễ dàng sử dụng internet banking trong tiếng mẹ đẻ. Văn bản cung cấp thông tin về việc sử dụng tài khoản điện tử và các hình thức bảo mật trong giao dịch ngân hàng. Các tài khoản điện tử cung cấp ưu đãi cho người dùng như giảm phí và lãi suất ưu đãi. Khách hàng nên sử dụng tài khoản điện tử nếu có kế hoạch giao dịch qua internet banking hay mobile banking.
+
+Có hai loại thẻ bảo an - thẻ bảo mật (Security Code Card) và OTP (One Time Password). Thẻ bảo mật chứa các số bí mật cố định, yêu cầu nhập 2 chữ số đầu và cuối khi giao dịch. Còn OTP tạo ra các số bí mật mới cho mỗi lần sử dụng, giúp bảo mật hơn. Thẻ bảo mật thường được cấp miễn phí nhưng bảo mật kém hơn OTP. Người dùng không nên cho mượn thẻ bảo an và notify ngân hàng ngay nếu bị mất. Đoạn văn này giải thích quy trình cấp mã chứng thực điện tử sử dụng cho dịch vụ internet banking. Trước năm 2020, chỉ có 'mã chứng thực điện tử' duy nhất, nhưng hiện nay đã thay thế bằng 'mã chứng thực chung' và 'mã chứng thực tài chính'. Mã chứng thực chung thực tế là tên mới của mã chứng thực cũ. Để cấp mã chứng thực chung, người dùng cần chuẩn bị các thông tin như ID, số tài khoản, mật khẩu, và một số thiết bị bảo mật. Người dùng có thể vào trang web ngân hàng, chọn mục trung tâm chứng thực cá nhân và nhấn nút xin cấp mã.
+
+Đoạn văn cũng khuyên người dùng đăng ký dịch vụ tin nhắn điện thoại (SMS) hoặc sử dụng ứng dụng của ngân hàng để nhận thông báo về các giao dịch. Điều này giúp người dùng dễ dàng theo dõi giao dịch và nhanh chóng phản ứng khi có giao dịch không mong muốn như lừa đảo tài chính. Dịch vụ thông báo qua ứng dụng ngân hàng không mất phí, trong khi dịch vụ tin nhắn SMS có thể sẽ bị tính phí. Bản tóm tắt của nội dung đã cung cấp là:
+
+Quá trình xin cấp và sử dụng mã chứng thực chung và mã chứng thực tài chính bao gồm các bước:
+
+1. Chọn mã chứng thực chung sử dụng cho ngân hàng/thẻ tín dụng/bảo hiểm với phí cấp miễn phí.
+2. Đồng ý với các điều khoản sau khi đã đọc chi tiết.
+3. Xác nhận bản thân người sử dụng bằng cách nhập các thông tin cá nhân như số chứng minh nhân dân, số tài khoản, mật khẩu, số thẻ bảo an hoặc OTP.
+4. Chọn vị trí lưu trữ và nhập mật khẩu chứng thực chung. Nên lưu vào thiết bị lưu trữ di động (USB) và tạo mật khẩu khó đoán.
+5. Mã chứng thực tài chính được phát triển bởi viện thanh toán tài chính và ngân hàng, lưu trữ trên cloud, có thời hạn 3 năm, và đơn giản hơn mã chứng thực chung. Đăng nhập trang web ngân hàng để xin cấp.
+6. Sử dụng internet banking để kiểm tra tài khoản ngân hàng bằng cách đăng nhập với mã chứng thực và kiểm tra các giao dịch trong khoảng thời gian mong muốn. Bài viết hướng dẫn cách kiểm tra nội dung giao dịch và cách sử dụng dịch vụ internet banking tại ngân hàng. Đầu tiên, người dùng có thể kiểm tra tài khoản và chọn khoảng thời gian muốn xem giao dịch. Nên lưu mã chứng thực chung vào USB thay vì máy tính để tránh nguy cơ bị hack, và không nên để USB kết nối vào máy tính lâu.
+
+Sử dụng internet banking có thể chuyển tiền vào cùng hoặc khác ngân hàng. Chuyển vào cùng ngân hàng không mất phí, nhưng chuyển sang ngân hàng khác thì có thể mất phí, tùy điều kiện ngân hàng cụ thể. Khi chuyển khoản, cần kiểm tra kỹ thông tin người nhận để tránh sai sót. Nếu nhập sai nhiều lần mật khẩu hoặc mã số thì dịch vụ internet banking sẽ bị khóa và cần đến ngân hàng để mở lại.
+
+Cuối cùng, bài viết cung cấp cách chuyển khoản: đăng nhập vào trang web ngân hàng, chọn mã chứng thực và nhập mật khẩu, sau đó chọn ""chuyển khoản"" và nhập thông tin người gửi và người nhận. Văn bản này hướng dẫn cách thức chuyển khoản qua ngân hàng và các biện pháp bảo mật cần thiết. Đầu tiên, người dùng cần nhập thông tin số tiền, ngân hàng nhận, và số tài khoản của người nhận tiền. Sau đó, xác nhận thông tin chuyển khoản và nhập mật khẩu. Để đảm bảo an toàn, người dùng nên nhập số bí mật bằng chuột trên bàn phím ảo.
+
+Đồng thời, văn bản khuyến nghị sử dụng dịch vụ trì hoãn chuyển khoản để có thể hủy bỏ nếu nhập sai thông tin. Nếu tiền đã chuyển nhầm vào tài khoản của người khác, cần liên hệ ngân hàng ngay để xin hoàn trả. Trong trường hợp không thể hoàn trả, có thể đăng ký dịch vụ hỗ trợ hoàn trả do chuyển khoản sai của Công đoàn bảo hiểm gửi tiền. Văn bản cũng đề cập đến việc sử dụng mobile banking như smart-phone hay máy tính bảng để thực hiện các giao dịch ngân hàng. Mobile banking là việc sử dụng smartphone để thực hiện các giao dịch ngân hàng như kiểm tra tài khoản, chuyển khoản, thanh toán phí và gửi tiền tiết kiệm. Để sử dụng, cần đăng ký internet banking và cài đặt ứng dụng ngân hàng. Mã chứng thực phải được sao chép vào smartphone từ internet banking. Nếu thay đổi hay cài đặt lại điện thoại, mã chứng thực sẽ mất nên cần sao lưu trước.
+
+Cách sao chép mã chứng thực từ PC vào smartphone bao gồm:
+1. Truy cập vào mục nhận mã chứng thực trong ứng dụng mobile banking trên smartphone.
+2. Đăng nhập trang web ngân hàng trên PC.
+3. Chọn mục sao chép mã chứng thực từ PC vào smartphone trong trung tâm chứng thực của trang web ngân hàng. Bản tóm tắt:
+
+Văn bản cung cấp hướng dẫn về cách sao chép mã chứng thực từ máy tính sang điện thoại thông minh, bao gồm các bước chọn mã chứng thực, nhập mật khẩu, và quét mã QR từ màn hình PC. Sau khi hoàn thành, mã chứng thực sẽ được sao chép sang điện thoại.
+
+Ngoài ra, văn bản cũng đề cập đến chi phí tiện ích như tiền điện, gas, nước, v.v., các hóa đơn được gửi về hàng tháng và cách đóng phí qua internet banking hoặc mobile banking. Văn bản nhấn mạnh tầm quan trọng của việc thanh toán đúng kỳ hạn để tránh phí nộp trễ và các vấn đề liên quan đến không nhận được hóa đơn do không có địa chỉ rõ ràng.
+
+Cuối cùng, văn bản cũng chỉ ra rằng việc đăng ký nhận hóa đơn qua email hoặc tin nhắn có thể giúp ngăn ngừa các vấn đề liên quan đến việc không nhận được hóa đơn. Bài viết giới thiệu về các dịch vụ đóng phí tiện ích qua ngân hàng hoặc trang web Internet Giro của Hàn Quốc. Có ba phương pháp chính:
+
+1. **Đóng tiền bằng Internet Giro:** Dịch vụ do Viện thanh toán tài chính điều hành, cho phép người dùng đóng phí tiện ích hoặc thuế qua Internet hoặc điện thoại thông minh mà không cần đến ngân hàng.
+
+2. **Chuyển khoản tự động:** Định kỳ, vào một ngày cố định hàng tháng, tiền phí tiện ích sẽ được tự động rút từ tài khoản của người dùng. Phương pháp này giúp người dùng không phải lo lắng về việc quên đóng phí hàng tháng, nhưng cần đảm bảo tài khoản luôn có đủ tiền. Đăng ký có thể thực hiện tại ngân hàng hoặc qua internet banking, mobile banking.
+
+3. **Màn hình đóng phí Giro tại trang web Internet Giro:** Hướng dẫn người dùng cách truy cập và sử dụng trang web www.giro.or.kr để đóng phí tiện ích, bao gồm đăng nhập bằng mã chứng thực, nhập số khách hàng, số tài khoản và xác nhận thanh toán.
+
+Ngoài ra, bài viết cũng khuyên người dùng nên sử dụng dịch vụ chuyển khoản tự động hoặc theo lịch hẹn để quản lý các khoản chi tiêu định kỳ như tiền thuê nhà, tiền sinh hoạt, tiền hội viên... một cách tiện lợi. Đoạn văn miêu tả các phương thức đóng tiền phí tiện ích tại ngân hàng hoặc bưu điện ở Hàn Quốc. Có hai phương thức chính:
+
+1. Đóng tiền bằng máy thu phí tự động tại ngân hàng: Mang theo sổ tài khoản hoặc thẻ cùng với hóa đơn phí tiện ích đến ngân hàng. Sử dụng máy thu phí tự động để thực hiện thanh toán. Các bước gồm:
+   - Chuẩn bị sổ tài khoản hoặc thẻ, hóa đơn phí tiện ích.
+   - Đến ngân hàng, tách riêng hóa đơn khách hàng ra.
+   - Cho hóa đơn vào máy, chọn nộp phí và thực hiện thanh toán bằng sổ tài khoản hoặc thẻ.
+   - Nhận lại sổ tài khoản hoặc thẻ cùng hóa đơn thanh toán.
+
+2. Đóng phí tại quầy ngân hàng hoặc bưu điện: Mang theo thông báo Giro đến ngân hàng hoặc bưu điện, yêu cầu nhân viên xử lý giúp.
+
+Cuối cùng, bài viết kể về trường hợp của cô B, một phụ nữ kết hôn di trú, do không thường xuyên đến ngân hàng đã gặp vấn đề với việc nộp phí tiện ích đúng hạn và phải chịu phí nộp trễ. Cô đã giải quyết bằng cách đăng ký dịch vụ chuyển khoản tự động hàng tháng. Tuy nhiên, vì không đủ tiền trong tài khoản vào một tháng, cô đã bị trừ phí cho hai tháng và phải đóng thêm phí nộp chậm khi tài khoản có tiền.
+
+Từ câu chuyện của cô B, người đọc rút ra bài học về việc quản lý tài chính cá nhân, đảm bảo có đủ tiền trong tài khoản khi đến kỳ hạn nộp phí tự động để tránh phí trễ hạn. Bài viết này cung cấp các mẹo quản lý tài chính và hướng dẫn về việc sử dụng ngân hàng. 
+
+1. Nếu mất hóa đơn thanh toán phí tiện ích, hãy liên hệ công ty để nhận thông tin cần thiết cho việc thanh toán.
+2. Ngân hàng cung cấp nhiều dịch vụ tài chính như gửi tiền, rút tiền, vay tiền, và chuyển tiền, giúp quản lý tiền một cách an toàn và hiệu quả.
+3. Nếu không có thời gian đến ngân hàng, có thể sử dụng ATM, internet banking và mobile banking để thực hiện các giao dịch một cách tiện lợi.
+4. Ngay cả khi không biết tiếng Hàn, vẫn có thể thực hiện giao dịch ngân hàng ở các chi nhánh có quầy tư vấn dành cho người nước ngoài và thông qua tổng đài tư vấn ngoại ngữ.
+5. Có nhiều cách để đóng phí tiện ích khi nhận được giấy thông báo, chẳng hạn như qua internet banking, mobile banking và internet Giro. Bản tóm tắt văn bản:
+
+Văn bản này đề cập đến các phương thức thanh toán phí tiện ích và việc sử dụng các sản phẩm tiết kiệm tại ngân hàng. Người ta có thể thanh toán phí tiện ích qua nhiều cách như Internet banking, Mobile banking, chuyển khoản tự động, đến trực tiếp ngân hàng hoặc bưu điện. Đồng thời, giấy thông báo đóng phí tiện ích có thể nhận qua bưu điện, email, tin nhắn.
+
+Về các sản phẩm tiết kiệm, có nhiều loại như gửi tiết kiệm định kỳ, sản phẩm tiết kiệm được hưởng ưu đãi thuế, gói tiết kiệm mua nhà để đăng ký mua chung cư, và chế độ bảo hộ người gửi tiền tiết kiệm. Câu chuyện giữa hai người bạn trong văn bản giải thích về việc gia hạn hợp đồng thuê nhà và cách chuẩn bị tiền bằng hình thức tiết kiệm, nhấn mạnh tầm quan trọng của việc để dành tiền và tham gia các gói tiết kiệm để có quỹ dự phòng khi cần thiết. Văn bản cũng khuyến khích người cư trú nước ngoài tham gia gói tiết kiệm tổng hợp để mua nhà. Bản văn nhấn mạnh tầm quan trọng của việc tiết kiệm tiền để đối phó với những tình huống bất ngờ trong cuộc sống như gia đình có người nhập viện, các chi phí lớn khi mua nhà, hoặc lúc con cái vào đại học. Tác giả khuyên nên đặt mục tiêu tiết kiệm và dành một phần thu nhập hàng tháng để tiết kiệm trước khi chi tiêu.
+
+Ngoài ra, thông điệp cũng đề cập đến việc tham gia các sản phẩm tiết kiệm định kỳ hoặc gửi tiết kiệm ngân hàng để có lãi cao hơn. Các ngân hàng thường cung cấp các gói tiết kiệm ưu đãi cho người kết hôn di trú, do đó nên mang theo các giấy tờ cần thiết để nhận tư vấn từ ngân hàng và chọn sản phẩm tiết kiệm phù hợp.
+
+Câu chuyện có thật của một phụ nữ từ Philippines chia sẻ những khó khăn khi chồng bị bệnh và bản thân mắc bệnh ung thư nhấn mạnh về việc sớm bắt đầu tiết kiệm hoặc mua bảo hiểm để không hối tiếc sau này.
+
+Cuối cùng, các chuyên gia khuyến nghị nên tiết kiệm từ 20-30% thu nhập để chuẩn bị cho các tình huống không lường trước. Văn bản tổng hợp về việc sử dụng các sản phẩm tiết kiệm như gửi tiết kiệm định kỳ, gửi tiết kiệm tích lũy định kỳ và tiết kiệm tiền một cách tự do. Gửi tiết kiệm định kỳ là việc gửi một số tiền vào ngân hàng theo thời hạn cụ thể, trong khi gửi tiết kiệm tích lũy là việc gửi một số tiền đều đặn hàng tháng để tạo ra số tiền lớn. Tiết kiệm tiền một cách tự do cho phép người gửi không bị giới hạn về số lần hay mức tiền gửi, và thường có lãi suất cao hơn gửi tiết kiệm định kỳ. Lãi suất thay đổi tùy thời điểm và loại ngân hàng, với ngân hàng trực tuyến thường có lãi suất cao hơn. Việc rút tiền trước hạn sẽ gây tổn thất lãi suất, do đó tốt nhất nên duy trì gói tiết kiệm đến khi mãn kỳ. Cần tìm hiểu kỹ lưỡng để chọn sản phẩm phù hợp với tình trạng kinh tế cá nhân. Đoạn văn đề cập về cách tìm kiếm và sử dụng các sản phẩm tiết kiệm có lãi suất cao và những lợi ích liên quan đến tiết kiệm, cụ thể là qua trang web Fine (fine.fss.or.kr). Trang web này giúp người tiêu dùng dễ dàng tìm các sản phẩm tài chính có lãi suất cao. Tuy nhiên, một số sản phẩm đặc biệt có thể không được liệt kê trên trang này, nhưng mỗi ngân hàng có thể có các sản phẩm cho thêm lãi suất bổ sung, do đó người tiêu dùng nên tìm kiếm thêm thông tin trên Internet.
+
+Ngoài ra, các ngân hàng còn có thể trả thêm lãi suất ưu đãi dựa trên kết quả giao dịch. Đặc biệt, người trên 65 tuổi có thể tham gia gói ""Tiết kiệm tổng hợp được miễn thuế"" mà tiền lãi không bị đánh thuế.
+
+Khi cần tiền gấp, thay vì hủy bỏ tiết kiệm, người tiêu dùng có thể xem xét vay tiền bằng cách thế chấp tài khoản tiết kiệm với lãi suất thấp hơn so với lãi vay thông thường.
+
+Các sản phẩm tiết kiệm được miễn thuế thường do các công ty như Liên hiệp tín dụng, hợp tác xã nông nghiệp, lâm nghiệp và thủy sản cung cấp. Nếu có thu nhập từ việc làm hay kinh doanh, người tiêu dùng có thể mở tài khoản quản lý tài sản tổng hợp cá nhân (ISA) tại ngân hàng hoặc công ty chứng khoán để được hưởng lợi ích miễn thuế từ 2 đến 4 triệu won, tùy thuộc vào mức thu nhập.
+
+ISA có ưu điểm là có thể bao gồm nhiều sản phẩm tài chính khác như tiết kiệm, quỹ, v.v. Văn bản này mô tả chi tiết về các gói tiết kiệm kỳ hạn và tiết kiệm tích lũy ở Hàn Quốc, cũng như các yêu cầu và lợi ích của chúng. Để nhận được lợi ích miễn thuế từ các gói tiết kiệm này, người gửi tiền phải duy trì khoản tiết kiệm trong ít nhất 3 năm. Ngoài ra, các khoản phí có thể phát sinh định kỳ, do đó nên kiểm tra kỹ trước khi đăng ký.
+
+Đối với gói tiết kiệm tổng hợp mua nhà, để đủ điều kiện đăng ký đặt mua chung cư, người tham gia phải là công dân Hàn Quốc hoặc người nước ngoài đang cư trú tại Hàn Quốc, và phải đóng tiết kiệm theo thời hạn chỉ định. Nếu là người nước ngoài, không thể nhận được phần lợi ích trong việc khấu trừ thuế thu nhập cuối năm. Gói này cũng có các ưu tiên đặc biệt cho gia đình đa văn hóa và những người không có nhà, với mức lãi suất thay đổi tùy theo thời gian gửi tiết kiệm.
+
+Cuối cùng, văn bản còn đề cập đến chế độ bảo hộ người gửi tiền tiết kiệm ở Hàn Quốc, nơi mà theo luật pháp, tiền gửi sẽ được bảo hiểm ngay cả khi ngân hàng phá sản. Bài viết giải thích về việc bảo vệ khoản tiền gửi và cách tối ưu hóa lợi nhuận từ các sản phẩm tiết kiệm. Điểm chính gồm:
+
+1. Ngân hàng chỉ bảo vệ tổng số tiền gửi lên đến 50 triệu won, nếu gửi số tiền lớn hơn nên phân chia ra nhiều ngân hàng.
+2. Các sản phẩm đầu tư tài chính như quỹ chứng khoán không thuộc đối tượng bảo vệ, do đó cần kiểm tra kỹ trước khi đăng ký.
+3. Có thể kiểm tra các sản phẩm tài chính bảo hộ tại trang web của Tổng công ty Bảo hiểm tiền gửi Hàn Quốc hoặc liên hệ với nhân viên tài chính.
+4. Cách nâng cao lợi nhuận từ tiết kiệm gồm:
+   - So sánh lãi suất trên cổng thông tin của Viện Giám sát Tài chính.
+   - Đăng ký tiết kiệm tại ngân hàng giao dịch chính để nhận ưu đãi.
+   - Cân nhắc hủy một phần hay vay tiền thay vì hủy ngay tiết kiệm khi cần tiền gấp.
+5. Sử dụng các sản phẩm tiết kiệm lợi về thuế như tài khoản quản lý tài sản tổng hợp (ISA) hoặc tiết kiệm không tính thuế cho người trên 65 tuổi.
+6. Đăng ký gói tiết kiệm tổng hợp để mua nhà chung cư, gia đình đa văn hóa có thể nhận ưu tiên mua nhà nếu hội đủ điều kiện. Tóm tắt văn bản:
+
+Nếu bạn đã sống ở cùng một địa chỉ trong hơn 3 năm và thuộc nhóm gia đình không sở hữu nhà vào thời điểm công bố tuyển dụng người ở, bạn có thể được ưu tiên phân phối nhà mà không cần cạnh tranh. Ngoài ra, tiền gửi trong ngân hàng sẽ được bảo hiểm tối đa là 50,000,000 won, bất kể ngân hàng bị phá sản hay không.
+
+Về việc sử dụng thẻ, văn bản đề cập đến các loại thẻ như thẻ check và thẻ tín dụng, cùng với những điều cần lưu ý khi sử dụng chúng. Thẻ tín dụng có thể dẫn đến việc chi tiêu không kiểm soát do cảm giác không mất tiền mặt ngay lập tức, vì vậy cần sử dụng thẻ một cách có kế hoạch để tránh các khoản chi tiêu không cần thiết.
+
+Phần này cũng bao gồm thông tin về các thẻ tiện lợi như thẻ giao thông và các lợi ích về hỗ trợ mang thai, sinh sản, và nuôi con.
+
+Cuối cùng, văn bản khuyến khích sử dụng thẻ check thay vì thẻ tín dụng để dễ dàng kiểm soát chi tiêu, và nhấn mạnh tầm quan trọng của việc chi tiêu có kế hoạch. Tại Hàn Quốc, dù có thể thanh toán bằng tiền mặt, nhưng người ta thường sử dụng thẻ nhiều hơn vì tiện lợi và an toàn. Sử dụng thẻ ngân hàng giúp tránh rủi ro mất tiền mặt và sự phiền phức khi mang theo tiền lẻ. Thẻ còn cung cấp nhiều lợi ích bổ sung như hoàn tiền và tích điểm. Sử dụng thẻ hiệu quả có thể mang lại lợi ích kinh tế hơn so với dùng tiền mặt. Các loại thẻ phổ biến ở Hàn Quốc là thẻ check và thẻ tín dụng.
+
+So sánh thẻ check và thẻ tín dụng:
+- Thẻ check chỉ sử dụng được khi trong tài khoản có tiền và thanh toán ngay khi mua hàng, giúp ngăn chặn việc tiêu xài quá mức.
+- Thẻ tín dụng có hạn mức tín dụng, thanh toán vào ngày định kỳ hàng tháng, có thể mua trả góp và vay tiền ngắn hạn.
+
+Người sử dụng thẻ check nên đăng ký dịch vụ nhắn tin thông báo giao dịch để tránh thiệt hại do mất hoặc đánh cắp thẻ. Một ví dụ minh họa là trường hợp của ông A, một lao động nước ngoài, đã tránh được thiệt hại thêm khi mất thẻ check nhờ dịch vụ thông báo giao dịch qua SMS và nhanh chóng báo mất thẻ. Bài viết nhấn mạnh tầm quan trọng của việc ký tên vào mặt sau của thẻ tín dụng và thông báo ngay khi thẻ bị mất để ngăn chặn việc sử dụng trái phép. Thẻ tín dụng yêu cầu nhiều điều kiện để cấp phát hơn so với thẻ check, do đó khó khăn hơn cho người nước ngoài không có công việc ổn định. Thẻ tín dụng cung cấp nhiều dịch vụ ưu đãi như giảm giá và trả góp không lãi suất. Câu chuyện tài chính thực tế của A minh họa rằng việc nợ thẻ tín dụng trước đó có thể ảnh hưởng đến khả năng vay tiền ngân hàng. Một người đã phát hiện rằng việc nợ tiền thẻ tín dụng ảnh hưởng đến khả năng vay tiền. Để tránh tăng tiền đặt cọc nhà, chủ nhà đã tăng tiền thuê mỗi tháng. Thẻ tín dụng cho phép mua trả góp nhiều lần, nhưng phí trả góp thường cao hơn lãi suất tiết kiệm, do đó cần kiểm tra phí trước khi sử dụng. Nếu mất thẻ, phải khai báo ngay và ký tên vào mặt sau thẻ để nhận sự bảo vệ từ công ty thẻ. Có thể vay tiền ngắn hạn qua ATM hay điện thoại từ công ty thẻ, nhưng lãi suất cao và ảnh hưởng xấu đến độ tín dụng nếu sử dụng thường xuyên. Nếu không quản lý kỹ việc sử dụng thẻ tín dụng, có thể gặp khó khăn khi đến hạn thanh toán và phải trả lãi cao. Nên hạn chế số lượng thẻ tín dụng và điều chỉnh mức giới hạn sử dụng thẻ phù hợp với thu nhập để tránh tiêu xài quá mức và gặp khó khăn kinh tế. Bài viết đưa ra các lưu ý quan trọng khi sử dụng thẻ tín dụng và thẻ check để tránh các rủi ro và vấn đề tài chính:
+
+1. **Thiết lập mật khẩu cẩn thận**: Không tiết lộ mật khẩu thẻ cho người khác và tránh sử dụng các thông tin cá nhân dễ đoán.
+2. **Kiểm tra số dư tài khoản khi sử dụng thẻ check**: Đảm bảo tài khoản có đủ tiền trước khi thanh toán.
+3. **Tránh nợ thẻ**: Nên suy nghĩ kỹ trước khi mua sắm bằng thẻ tín dụng để đảm bảo khả năng thanh toán.
+4. **Báo cáo ngay khi mất thẻ**: Gọi điện thoại báo mất thẻ và dừng sử dụng để nhận bồi thường từ công ty thẻ nếu không có lỗi từ phía chủ thẻ.
+5. **Ký tên vào mặt sau thẻ**: Giúp bảo vệ quyền lợi khi thẻ bị mất hoặc đánh rơi.
+6. **Không cho người khác mượn thẻ**: Để tránh những rủi ro và không được bồi thường thiệt hại từ công ty thẻ.
+
+Ngoài ra, bài viết cũng đề cập đến việc sử dụng thẻ giao thông ở Hàn Quốc để tránh bất tiện khi mang theo tiền mặt khi sử dụng các phương tiện công cộng như xe buýt, tàu điện ngầm hoặc taxi. Bài văn này giới thiệu về việc sử dụng thẻ giao thông công cộng, đã trở nên phổ biến và tiện lợi tại Hàn Quốc. Các loại thẻ giao thông chính bao gồm thẻ trả trước như Tmoney và Cashbee, và thẻ tín dụng trả sau như thẻ tín dụng và thẻ Check với chức năng giao thông bổ sung. Thẻ trả trước có thể nạp tiền tại các ga tàu điện ngầm và cửa hàng tiện lợi. Thẻ tín dụng trả sau được làm tại các công ty tín dụng và có thể sử dụng cả chức năng tín dụng lẫn chức năng giao thông.
+
+Đối với trẻ em và thanh thiếu niên, có thể đăng ký ngày tháng năm sinh để nhận ưu đãi giảm giá. Mức giá cho thanh thiếu niên áp dụng cho lứa tuổi từ 13-18 và trẻ em từ 6-12 tuổi.
+
+Ngoài ra, bài viết còn đề cập đến Thẻ Hạnh phúc công dân, là thẻ chuyên dùng để nhận các lợi ích hỗ trợ từ nhà nước dưới hình thức Voucher. Người nước ngoài cũng có thể nhận được lợi ích này nếu họ tham gia bảo hiểm y tế quốc gia hoặc được đăng ký là người phụ thuộc. Text đề cập đến quá trình làm thẻ Hạnh phúc công dân và cách đăng ký các dịch vụ liên quan để nhận lợi ích. Có thể làm thẻ tại nhiều địa điểm như ngân hàng, bưu điện, qua web hoặc tổng đài. Để nhận đầy đủ lợi ích, sau khi làm thẻ cần đăng ký các dịch vụ riêng biệt tại các cơ quan tương ứng với quy định khác nhau.
+
+Chi tiết về các dịch vụ và lợi ích, bạn có thể kiểm tra tại trung tâm phúc lợi hành chính tại khu vực cư trú hoặc thông qua trang web thẻ Hạnh phúc công dân. Ví dụ, lợi ích từ bảo hiểm y tế quốc dân cho phụ nữ mang thai sẽ nhận hỗ trợ tiền khám và điều trị, và phải đăng ký ở chi nhánh bảo hiểm y tế hoặc trực tuyến.
+
+Để sử dụng các dịch vụ, bạn có thể đăng nhập vào trang web, nhập thông tin cá nhân và kiểm tra các lợi ích hỗ trợ cũng như làm theo hướng dẫn đăng ký. Bài viết này cung cấp thông tin về các loại hỗ trợ xã hội khác nhau tại Hàn Quốc, bao gồm:
+
+1. **Hỗ trợ sức khỏe cho sản phụ và trẻ sơ sinh**: Tùy thuộc vào thu nhập và số lượng thai, hỗ trợ từ 450,000 won đến 1,620,000 won. Việc đăng ký có thể được thực hiện trực tuyến tại trang web bokjiro.go.kr hoặc tại trung tâm hành chính và phúc lợi.
+
+2. **Hỗ trợ tã và sữa bột**: 64,000 won/tháng cho tã và 150,000 won/tháng cho cả tã và sữa bột. Đăng ký có thể thực hiện tại trạm y tế hoặc ủy ban nhân dân khu vực.
+
+3. **Hỗ trợ năng lượng**: Số tiền hỗ trợ tùy thuộc vào số lượng thành viên gia đình, từ 96,500 won đến 191,000 won. Đăng ký tại trung tâm hành chính và phúc lợi.
+
+4. **Dịch vụ chăm sóc trẻ**: Hỗ trợ chăm sóc trẻ theo giờ từ 1,506 won đến 8,534 won tùy vào thu nhập. Đăng ký tại trung tâm hành chính và phúc lợi hoặc trang web idolbom.go.kr.
+
+5. **Hỗ trợ mua băng vệ sinh cho nữ thanh thiếu niên**: Tối đa 144,000 won/năm. Đăng ký tại trung tâm hành chính và phúc lợi hoặc trang web bokjiro.go.kr.
+
+6. **Hỗ trợ phiếu sử dụng dịch vụ cho lần gặp mặt đầu tiên**: Phiếu 2,000,000 won trong Thẻ Hạnh phúc Quốc gia để giảm gánh nặng kinh tế khi nuôi con. Đăng ký tại trung tâm hành chính và phúc lợi hoặc trang web bokjiro.go.kr.
+
+Ngoài ra, bài viết cũng đề cập đến thẻ tiền tệ của chính quyền địa phương, một phương tiện thanh toán do chính quyền địa phương phát hành và chỉ sử dụng tại các cửa hàng liên kết trong khu vực, có ba hình thức: giấy, thẻ và mobile. Đoạn văn này cung cấp hướng dẫn về cách đăng ký và sử dụng thẻ tiền tệ địa phương tại Hàn Quốc. 
+
+1. Đăng ký thẻ tiền tệ địa phương:
+- Để đăng ký thẻ, người dân cần cài đặt ứng dụng tiền địa phương cung cấp bởi chính quyền tỉnh, tòa thị chính hoặc văn phòng quận. Cũng có thể đăng ký thông qua ngân hàng hợp tác với chính quyền địa phương.
+
+2. Lợi ích của thẻ tiền tệ địa phương:
+- Người sử dụng thẻ nhận được tiền mặt từ chính quyền địa phương với mức tối thiểu là 5% và tối đa là 30% số tiền sử dụng.
+- Mỗi địa phương có giới hạn sử dụng hàng tháng cho mỗi người. Nếu vượt quá ngân sách, người dùng sẽ không được nhận trợ cấp thêm.
+
+3. Cài đặt và sử dụng ứng dụng:
+- Người dùng nên cài đặt ứng dụng tiền địa phương và sử dụng chức năng tính phí tự động trong giới hạn hàng tháng.
+
+4. Kiểm tra thông tin chi tiết:
+- Thông tin về phương thức phát hành nội tệ, lợi ích chiết khấu, hạn mức mua hàng có thể được kiểm tra tại trang web Naegojang Allimi (www.laiis.go.kr).
+
+5. Các dịch vụ voucher của nhà nước và tư cách sử dụng:
+- Người nước ngoài nếu đăng ký bảo hiểm y tế Quốc dân có thể nhận hỗ trợ chi phí y tế liên quan đến mang thai và sinh con. Cần kiểm tra tại trung tâm phúc lợi hành chính hoặc trang web Thẻ hạnh phúc quốc dân (www.voucher.go.kr).
+
+6. Đăng ký thẻ Hạnh phúc quốc dân:
+- Cần thẻ hạnh phúc quốc dân để đăng ký dịch vụ voucher. Có thể làm thẻ tại ngân hàng, bưu điện hoặc các công ty tài chính như BC, Lotte, Samsung, KB Kookmin, Shinhan hoặc thông qua trang web và tổng đài của các công ty này.
+
+Tóm lại, thẻ tiền tệ địa phương và thẻ hạnh phúc quốc dân mang lại nhiều lợi ích và hỗ trợ cho người dân, bao gồm cả người nước ngoài, trong việc chi tiêu và nhận trợ cấp từ chính quyền địa phương. Đoạn văn bản trên hướng dẫn về cách sử dụng thẻ tiền tệ địa phương để nhận giảm giá hoặc hoàn tiền từ 5% đến 30% theo ngân sách của chính quyền địa phương. Mọi người có thể kiểm tra các lợi ích của thẻ này thông qua trang web Naegojang Allimi (www.laiis.go.kr) và đăng ký thẻ tại các ngân hàng liên kết hoặc cài đặt các ứng dụng chuyên dụng.
+
+Ngoài ra, văn bản cũng giải thích về các loại bảo hiểm như bảo hiểm xã hội (y tế, lao động, bồi thường tai nạn công nghiệp, hưu trí), bảo hiểm dành riêng cho người lao động nước ngoài (bảo hiểm hồi hương, tai nạn, mãn hạn xuất cảnh, bảo đảm), và bảo hiểm tư nhân (nhân thọ, bệnh tật, xe ô tô, lương hưu, biến đổi chi phí). Đoạn cuối là một đoạn hội thoại về việc sử dụng bảo hiểm xe ô tô sau khi gặp tai nạn giao thông. Văn bản giải thích về tầm quan trọng của việc mua bảo hiểm khi sống ở Hàn Quốc và các loại bảo hiểm khác nhau. Khi bạn gây ra tai nạn, bảo hiểm chỉ chi trả cho thiệt hại của bên thứ ba; nếu muốn được bảo hiểm cho thương tích của bản thân hoặc sửa chữa xe, bạn cần mua bảo hiểm tổng hợp. Việc này giúp tiết kiệm chi phí dài hạn mặc dù phí ban đầu có thể cao hơn.
+
+Bảo hiểm giúp đối phó với các rủi ro như tai nạn, bệnh tật, thất nghiệp, hay tuổi già. Ở Hàn Quốc, có cả bảo hiểm bắt buộc và tự nguyện. Nên lựa chọn bảo hiểm theo nhu cầu và khả năng tài chính cá nhân, để khi có sự cố xảy ra, bảo hiểm sẽ cung cấp hỗ trợ cần thiết.
+
+Ngoài ra, cần tìm hiểu kỹ về các sản phẩm bảo hiểm vì một số có thời hạn đóng phí dài, và nếu hủy ngang, có thể mất một phần hoặc toàn bộ số tiền đã đóng. Bảo hiểm được chia ra thành hai loại chính là bảo hiểm xã hội và bảo hiểm tư nhân. Bảo hiểm xã hội được nhà nước phát động để bảo đảm và ứng phó với các nguy cơ xã hội, như bảo hiểm y tế công dân, bảo hiểm lao động, bảo hiểm lương hưu trí, và bảo hiểm tai nạn lao động. Ở Hàn Quốc, bảo hiểm xã hội thường được gọi là 4 loại bảo hiểm.
+
+Bảo hiểm tư nhân là sản phẩm tài chính mà cá nhân tự đăng ký tại các công ty bảo hiểm tư nhân để ứng phó với các nguy cơ trong tương lai. Các công ty bảo hiểm dễ thấy như OOLife, XX-Fire, và △△bảo hiểm bồi thường bán các loại bảo hiểm tư nhân này.
+
+Trong bảo hiểm xã hội, nổi bật có bốn loại: 
+1. Bảo hiểm y tế quốc dân để quản lý sức khỏe và điều trị bệnh.
+2. Bảo hiểm lao động giúp đỡ thất nghiệp và tái tìm việc.
+3. Bảo hiểm tai nạn lao động bồi thường khi gặp tai nạn hoặc tử vong tại nơi làm việc.
+4. Bảo hiểm lương hưu trí để đảm bảo cuộc sống khi tuổi già.
+
+Bảo hiểm y tế quốc dân là chế độ để phòng ngừa việc các chi phí điều trị do bệnh tật gây ra, các công dân sẽ đóng tiền bảo hiểm mà nhà nước quản lý và cung cấp khi cần thiết. Tóm tắt:
+
+Công đoàn bảo hiểm y tế quốc dân (NHIS) cung cấp thông tin và hỗ trợ qua trang web hoặc điện thoại tư vấn, bao gồm các ngôn ngữ như tiếng Anh, Trung Quốc, Việt Nam, và Uzebek. 
+
+Quy trình đăng ký bảo hiểm y tế quốc dân khác nhau tùy vào tình trạng việc làm:
+
+1. Nếu bạn đang làm việc, công ty sẽ đăng ký bảo hiểm cho bạn, chỉ cần nộp hồ sơ cần thiết.
+2. Nếu vợ/chồng bạn đang làm việc, bạn sẽ được hưởng lợi ích bảo hiểm khi được đăng ký là người được bảo lãnh, nộp hồ sơ tại cơ quan Công đoàn bảo hiểm.
+3. Nếu không có ai làm việc tại công ty, nhưng cư trú trên 180 ngày, bạn sẽ tự động gia nhập bảo hiểm khu vực. Tuy nhiên, nếu không đóng bảo hiểm, bạn phải tự chịu toàn bộ chi phí y tế và có thể bị hạn chế trong việc gia hạn visa. Nếu đã có bảo hiểm y tế tương đương, bạn không cần gia nhập trùng lặp, chỉ cần đăng ký loại trừ tại chi nhánh NHIS.
+
+Trang web NHIS hỗ trợ nhiều ngôn ngữ và có thể đặt lịch hẹn tư vấn. Trung tâm khiếu nại dành cho người nước ngoài tại Seoul cung cấp hỗ trợ cho người nước ngoài và kiều bào. Bài viết giới thiệu về các trung tâm khiếu nại dành cho người nước ngoài và kiều bào tại khu vực Seoul và Incheon, bao gồm các khu vực Ansan, Shihung, Gunpo, Suwon, Yongin, Hwaseong, Osan, Seongnam, Incheon, Bucheon, Gimpo, Gwangmyeong, Uijeongbu, Namyangju, Gapyeong, Pocheon, Dongducheon, Yeoncheon, Yangju, Guri, Goyang, và Paju. Ngoài ra, người nước ngoài ở các khu vực khác có thể tư vấn khiếu nại tại các chi nhánh của bảo hiểm y tế quốc dân.
+
+Bài viết cũng nói về bảo hiểm lao động do Bộ Lao động và Việc làm cung cấp (☎1350). Bảo hiểm lao động nhằm trợ cấp lương thất nghiệp và hỗ trợ đào tạo nghề cho người bị mất việc do công ty gặp khó khăn. Tùy theo tư cách lưu trú, người nước ngoài có thể thuộc diện bắt buộc tham gia hoặc lựa chọn tham gia bảo hiểm lao động. Người lao động có visa F-2, F-5, F-6 bắt buộc phải tham gia, trong khi người khác có thể được lựa chọn. Tham chiếu thêm thông tin và yêu cầu tư vấn qua tổng đài Bộ Lao động và Việc làm.
+
+Nếu đã đi làm trên 6 tháng và phải nghỉ việc ngoài ý muốn, người lao động có thể đăng ký nhận trợ cấp thất nghiệp tại trung tâm hỗ trợ người lao động có thẩm quyền tại nơi cư trú. Tóm tắt văn bản này bao gồm hai phần chính:
+
+1. **Bảo hiểm bồi thường tai nạn lao động (산업재해보상보험)**:
+   - Được biết đến là Bảo hiểm Bồi thường Tai nạn Công nghiệp, nó là một hệ thống phúc lợi nhằm hỗ trợ người lao động bằng cách ngăn ngừa tai nạn và cung cấp điều trị cũng như bồi thường nhanh chóng, công bằng trong trường hợp bị thương hoặc tử vong khi làm việc.
+   - Khi xảy ra tai nạn lao động, công ty thường nộp đơn xin bồi thường. Nếu công ty không làm vậy, người lao động hoặc gia đình phải liên hệ trực tiếp với Công đoàn phúc lợi lao động qua số điện thoại ☎1588-0075 để đăng ký.
+   - Trong quá trình điều trị tai nạn lao động, người lao động không thể bị sa thải hoặc buộc phải xuất cảnh.
+
+2. **Bảo hiểm hưu trí quốc dân (국민연금)**:
+   - Đây là hệ thống chính phủ trợ cấp tiền cho cá nhân hoặc gia đình gặp khó khăn trong hoạt động kiếm tiền do bệnh tật, tuổi già, khuyết tật, v.v.
+   - Bảo hiểm hưu trí áp dụng cho tất cả công dân dưới 60 tuổi sống tại Hàn Quốc, bao gồm cả người nước ngoài. Người nước ngoài từ 18 đến 60 tuổi đang làm việc tại nơi có tham gia bảo hiểm hưu trí sẽ được đăng ký.
+   - Một số đối tượng như thực tập sinh, sinh viên nước ngoài và nhà ngoại giao có thể được miễn nghĩa vụ gia nhập bảo hiểm hưu trí.
+   - Cần kiểm tra tư cách lưu trú và quốc gia để xác định xem mình có thuộc diện phải đóng bảo hiểm hay không. Có thể liên hệ với chi nhánh của Công đoàn lương hưu quốc dân hoặc tổng đài ☎1355 để biết thêm thông tin.
+   - Độ tuổi nhận bảo hiểm hưu trí thay đổi tùy theo năm sinh: người sinh từ 1953~56 sẽ nhận vào 61 tuổi, sinh từ 1957~60 nhận vào 62 tuổi, sinh từ 1961~64 nhận vào 63 tuổi, sinh từ 1965~68 nhận vào 64 tuổi, và sinh từ 1969 trở đi nhận vào 65 tuổi. Văn bản cung cấp thông tin về các quốc gia không áp dụng bảo hiểm hưu trí, bao gồm 22 nước như Georgia, Nigeria, Nam Phi, Nepal, Malaysia, Maldives, Myanmar, Bangladesh, Belarus, Brunei, Ả Rập Saudi, Singapore, Swaziland, Armenia, Ethiopia, Iran, Campuchia, Kazakhstan, Tonga, Pakistan, và Fiji. 
+
+Người lao động nước ngoài có thể tải ""Sổ tay bảo hiểm hưu trí dành cho người nước ngoài"" từ trang web của NPS bằng nhiều ngôn ngữ khác nhau như tiếng Anh, Trung, Indonesia, Sri Lanka, Thái, Uzbek, Nhật, Mông Cổ, Nga, Kyrgyz, Pháp, Đức, Tây Ban Nha và Ý.
+
+Ngoài ra, bảo hiểm dành riêng cho người lao động nước ngoài là bắt buộc và nếu không tham gia, có thể bị xử phạt. Bao gồm bảo hiểm chi phí hồi hương và bảo hiểm tai nạn từ các công ty như Samsung Fire. Người lao động bắt buộc phải tham gia trong thời hạn quy định và chi phí bảo hiểm khác nhau tùy thuộc vào quốc gia, tuổi tác và giới tính. Văn bản đề cập đến hai loại bảo hiểm quan trọng dành cho lao động nước ngoài tại Hàn Quốc.
+
+1. **Bảo Hiểm Mãn Hạn Xuất Cảnh (출국만기보험)**:
+   - Đối tượng: Người sử dụng lao động phải đăng ký cho các lao động nước ngoài có thời gian làm việc từ 1 năm trở lên.
+   - Yêu cầu: Đăng ký với công ty bảo hiểm (Samsung) trong vòng 15 ngày kể từ khi hợp đồng lao động có hiệu lực.
+   - Phí bảo hiểm: Chiếm 8,3% tiền lương hàng tháng thông thường.
+   - Quyền lợi: Khi lao động nghỉ việc sau hơn 1 năm, họ phải báo cáo với trung tâm việc làm 1 tháng trước khi hết hạn lưu trú, và gửi đơn xin nhận tiền bảo hiểm kèm giấy xác nhận kế hoạch xuất cảnh cho công ty bảo hiểm.
+
+2. **Bảo Hiểm Bảo Đảm (보증보험)**:
+   - Mục đích: Bảo vệ quyền lợi cho lao động khi doanh nghiệp phá sản hoặc đóng cửa không trả lương.
+   - Yêu cầu: Người sử dụng lao động phải đăng ký trong vòng 15 ngày từ khi hợp đồng lao động có hiệu lực.
+   - Quyền lợi: Lao động có thể nhận tối đa 4,000,000 won nếu xảy ra nợ lương.
+
+**Lưu Ý Khác**:
+- Từ tháng 11 năm 2018, các công việc liên quan đến bảo hiểm mãn hạn xuất cảnh, bảo hiểm chi phí hồi hương, bảo hiểm tai nạn có thể được xử lý qua ứng dụng di động ""EPS Insurance"".
+
+**Bảo Hiểm Tư Nhân (민영보험)**:
+- Các sản phẩm bảo hiểm tư nhân có nhiều loại và nội dung phức tạp, giúp bảo vệ trước nhiều rủi ro khác nhau.
+- Cần nghiên cứu kỹ đặc điểm và lưu ý khi tham gia các sản phẩm bảo hiểm.
+
+**Ví dụ về Bảo hiểm nhân thọ, bảo hiểm định kỳ (종신보험, 정기보험)**:
+- Mục đích: Giảm bớt khó khăn kinh tế cho gia đình trong trường hợp người trụ cột thiệt mạng. Tóm tắt:
+
+Đoạn văn này nói về hai loại bảo hiểm chính là bảo hiểm nhân thọ (bảo hiểm vĩnh viễn) và bảo hiểm định kỳ. Bảo hiểm nhân thọ đảm bảo cuộc sống cho người thân sau khi người được bảo hiểm qua đời, và tiền bảo hiểm sẽ được thanh toán khi người đó tử vong. Bảo hiểm định kỳ chỉ đảm bảo trong một khoảng thời gian nhất định; nếu người được bảo hiểm không tử vong trong thời gian đó, thì hợp đồng bảo hiểm sẽ hết hiệu lực mà không có bồi thường.
+
+Ngoài ra, có các loại bảo hiểm bệnh tật như bảo hiểm bồi thường y tế và bảo hiểm bệnh tật theo mức tiền quy định. Bảo hiểm bồi thường y tế chi trả chi phí thực tế khi điều trị, trong khi bảo hiểm bệnh tật theo mức tiền quy định chi trả một số tiền cố định cho các bệnh đặc thù như ung thư, xuất huyết não, nhồi máu cơ tim. Người tham gia bảo hiểm nên chọn bảo hiểm phù hợp với khả năng kinh tế của mình để tránh gánh nặng tài chính do phí bảo hiểm cao. Văn bản này cung cấp thông tin liên quan đến bảo hiểm y tế. Dưới đây là tóm tắt các nội dung chính:
+
+1. **Phạm vi bảo hiểm không bao gồm**: Chi phí thẩm mỹ (như phẫu thuật thẩm mỹ, tiêm chủng, và chi phí điều dưỡng), mặc dù có thể giảm giá phí bảo hiểm nếu cung cấp hồ sơ chứng nhận cho công ty bảo hiểm.
+
+2. **Thông tin hữu ích sau khi đăng ký bảo hiểm**:
+   - Bạn có thể nhận được tiền bảo hiểm cho chi phí thuốc kê đơn nếu giữ hóa đơn thuốc và kiểm tra các điều khoản bảo hiểm.
+   - Có thể dễ dàng đăng ký tiền bảo hiểm trực tuyến nếu số tiền dưới 1,000,000 won.
+
+3. **So sánh giữa bảo hiểm bồi thường y tế và bảo hiểm bệnh tật theo mức tiền quy định**:
+   - **Bảo hiểm bồi thường y tế**: Đền bù 70%-80% chi phí đã chi trả, phạm vi rộng, nhưng phí bảo hiểm có thể thay đổi mỗi lần đăng ký lại.
+   - **Bảo hiểm bệnh tật theo mức tiền quy định**: Chi trả số tiền cố định, dù trùng lặp hợp đồng hay không, bồi thường số tiền lớn cho một số bệnh đặc biệt, nhưng không chi trả các bệnh khác không có trong hợp đồng.
+
+4. **Sử dụng hệ thống thanh toán nhanh chóng**: Nếu phải thanh toán phí y tế quá cao và không có tiền, có thể sử dụng hệ thống này để yêu cầu bảo hiểm thanh toán nhanh chóng. Văn bản này giải thích về các loại bảo hiểm và hệ thống thanh toán nhanh chóng. Hệ thống thanh toán nhanh chóng giúp giảm bớt gánh nặng tài chính bằng cách cho phép công ty bảo hiểm thanh toán trước một phần hóa đơn y tế. Những người đủ điều kiện nhận trợ cấp y tế cấp 1 và 2, người bệnh nặng, và những ai có khoản thanh toán từ giữa chừng trên 3,000,000 won có thể nhận trước 70% tiền bảo hiểm dự kiến, phần còn lại sẽ được thanh toán cuối cùng.
+
+Bảo hiểm xe ô tô được chia thành bảo hiểm bắt buộc và bảo hiểm tổng hợp. Bảo hiểm bắt buộc bồi thường thiệt hại trong giới hạn cho đối phương và xe của họ khi xảy ra tai nạn. Bảo hiểm tổng hợp cung cấp thêm bồi thường cho đối phương và xe của họ cũng như cơ thể và xe của chính người mua. Bảo hiểm tổng hợp còn giúp bồi thường khi người gây ra tai nạn không có bảo hiểm.
+
+Cuối cùng, bảo hiểm lương hưu là cần thiết để đảm bảo đời sống sau khi nghỉ hưu trong bối cảnh tuổi thọ trung bình ngày càng tăng. Bảo hiểm này giúp người nghỉ hưu có thu nhập ổn định và sống an toàn khi không còn thu nhập sau nghỉ hưu. Bảo hiểm hưu trí là một sản phẩm mà cá nhân có thể tự nguyện tham gia nhằm bảo đảm cho tuổi già. Thời gian tham gia thường dài và có thể không được hoàn lại một phần phí bảo hiểm nếu hủy bỏ giữa chừng. Do đó, cần cân nhắc mức thu nhập của bản thân để lựa chọn số tiền bảo hiểm một cách cẩn thận.
+
+Để tiết kiệm phí bảo hiểm xe ô tô, bạn cần:
+
+1. Lái xe an toàn để tránh tai nạn.
+2. Sử dụng các điều khoản giảm giá như ""tích lũy điểm"" hay ""black box"".
+3. Quyết định cẩn thận phạm vi người lái xe.
+4. Tuân thủ luật giao thông để tránh tăng phí bảo hiểm.
+5. Sử dụng ""chế độ công nhận tiểu sử gia nhập lái xe"" để giảm phí bảo hiểm khi gia nhập lần đầu tiên.
+6. Xác nhận xem bạn có phải là đối tượng nhận ưu tiên bảo hiểm xe ô tô dành cho hộ khó khăn hay không để được giảm phí bảo hiểm.
+
+Bảo hiểm biến đổi chi phí là loại bảo hiểm đầu tư vào các quỹ như cổ phiếu và trái phiếu, mang lại lợi nhuận bổ sung và bảo đảm. Bản tóm tắt:
+
+Văn bản này nói về các loại bảo hiểm biến đổi, trong đó tiền bảo hiểm và khoản hoàn trả khi hủy hợp đồng sẽ thay đổi tùy theo thành tích vận hành của chứng khoán. Người tham gia các sản phẩm bảo hiểm này có thể đạt được lợi nhuận lớn hoặc chịu lỗ lớn, do đó, cần phải quyết định gia nhập một cách cẩn trọng.
+
+Người tiêu dùng có thể mua nhiều loại bảo hiểm khác nhau thông qua các công ty bảo hiểm nhân thọ, bao gồm bảo hiểm hưu trí biến đổi, bảo hiểm nhân thọ biến đổi cho trường hợp tử vong, và bảo hiểm liên kết chung biến đổi. Những loại bảo hiểm này có thể có các lợi ích thuế khác nhau.
+
+Khi xem xét việc gia nhập bảo hiểm, người tiêu dùng cần kiểm tra nội dung bảo hiểm hiện có, so sánh các sản phẩm bảo hiểm khác nhau để tìm sản phẩm phù hợp với mục tiêu của mình. Có thể sử dụng các công cụ so sánh trực tuyến như ""Tổng hợp tất cả bảo hiểm"" do Viện giám sát tài chính Fain cung cấp để so sánh các sản phẩm bảo hiểm từ nhiều công ty khác nhau. Tóm tắt:
+Khi tham gia bảo hiểm, cần xem xét khả năng đóng phí dài hạn để tránh gặp khó khăn tài chính nếu thu nhập không ổn định. Nên thông báo các thông tin quan trọng cho công ty bảo hiểm trung thực và kiểm tra kỹ nội dung hợp đồng trước khi ký. Ngoài ra, có thể thu hồi hoặc hủy bỏ hợp đồng bảo hiểm trong vòng 15-30 ngày từ ngày nhận hợp đồng mà không cần lý do, đảm bảo quyền lợi của người tham gia bảo hiểm. Đoạn văn này cung cấp thông tin về các điều khoản hủy bỏ hợp đồng bảo hiểm, sử dụng bảo hiểm và các vấn đề liên quan đến chuyển đổi tiền tệ và gửi tiền ra nước ngoài. Các điểm chính bao gồm:
+
+1. **Hủy bỏ hợp đồng bảo hiểm**:
+   - Người mua bảo hiểm có thể hủy hợp đồng trong vòng 3 tháng kể từ ngày ký kết nếu công ty bảo hiểm không ký hợp đồng bằng tay.
+
+2. **Sử dụng bảo hiểm**:
+   - Bảo hiểm sức khỏe quốc dân: Cần đóng phí bảo hiểm để nhận hỗ trợ viện phí từ chính phủ khi ốm đau.
+   - Xem xét cẩn thận thu nhập trước khi gia nhập bảo hiểm để đảm bảo khả năng đóng phí lâu dài.
+   - Không nên chỉ dựa vào lời khuyên của người khác để tham gia bảo hiểm, cần kiểm tra kỹ nội dung bảo hiểm để tránh trùng lặp và mất phí khi hủy giữa chừng.
+
+3. **Đổi tiền và chuyển tiền ra nước ngoài**:
+   - Hướng dẫn về việc tra cứu tỷ giá, cách đổi tiền, và các phương thức chuyển tiền như qua quầy giao dịch tại ngân hàng, internet banking, mobile banking, các công ty chuyên chuyển tiền, ATM và các dịch vụ đặc biệt của ngân hàng.
+
+4. **Câu chuyện cuộc sống tài chính**: 
+   - Một tình huống thực tế về việc cần gửi tiền gấp về nhà do em trai bị tai nạn giao thông.
+
+Tóm lại, đoạn văn này cung cấp hướng dẫn chi tiết về bảo hiểm và các phương thức chuyển tiền ra nước ngoài cùng với một câu chuyện minh họa thực tế về nhu cầu gấp gửi tiền. Một người đang có nhu cầu gấp gửi tiền về quê vì em trai bị tai nạn giao thông. Nghe nói gửi tiền qua ngân hàng Hàn Quốc có phí cao, nên nhiều người thường tìm cách gửi qua môi giới, nhưng việc này là phạm pháp. May mắn, quản lý Gang đã giới thiệu một ngân hàng với các ưu đãi cho người lao động nước ngoài, giúp giảm phí gửi tiền. Có thể sử dụng internet banking để không cần đến trực tiếp ngân hàng. 
+
+Người ta cần nhớ có nhiều cách để gửi tiền với thời gian nhận và phí khác nhau. Đổi tiền và chuyển tiền quốc tế phải chú ý tỷ giá hối đoái, vì tỷ giá thay đổi tùy theo tình hình kinh tế. 
+
+Qua câu chuyện của một người lao động như A, có thể thấy việc hiểu biết về tài chính là cần thiết để lựa chọn phương thức gửi tiền an toàn và tiết kiệm nhất. Đoạn văn trình bày rằng tỷ giá có khả năng tăng lên, điều này sẽ ảnh hưởng đến A bằng cách làm giảm số tiền mà gia đình A nhận được khi A gửi tiền về quê. Vì tỷ giá tăng, nên A phải chi nhiều tiền Hàn hơn khi đổi sang ngoại tệ, kết quả là thu nhập thực tế của A giảm.
+
+Để ứng phó với vấn đề này, người gợi ý rằng A nên mở sổ tài khoản ngoại tệ tại ngân hàng gần nhất và định kỳ gửi tiền một cách cố định. Việc này giúp giảm thiểu rủi ro do tỷ giá tăng khi chuyển đổi tiền tệ.
+
+Bài viết cũng cung cấp thông tin về cách tra cứu tỷ giá thông qua quầy ngân hàng hoặc internet, và nhấn mạnh về sự quan trọng của việc kiểm tra tỷ giá ngoại tệ để có kế hoạch chuyển đổi và chuyển tiền quốc tế hiệu quả hơn. Tóm tắt văn bản:
+
+Văn bản này hướng dẫn cách kiểm tra tỷ giá và quy trình đổi tiền tại ngân hàng ở Hàn Quốc. Người dùng có thể kiểm tra tỷ giá của ngoại tệ thông qua trang web ngân hàng hoặc tìm kiếm trên các trang web khác như Naver. Đổi tiền là việc trao đổi tiền của một quốc gia này sang tiền của quốc gia khác, có thể thực hiện thông qua ngân hàng tại Hàn Quốc. Người nước ngoài cần phải chuẩn bị các hồ sơ cần thiết như giấy tờ tùy thân, giấy chứng nhận mua bán ngoại tệ nếu số tiền đổi thêm vượt qua mức 10,000 đô la Mỹ. Sau đó, người đổi tiền cần rút số thứ tự, điền vào bản đăng ký mua bán ngoại tệ, và nhận số tiền đổi theo tỷ giá. Nếu không có giấy tờ bổ sung, ngân hàng sẽ đánh dấu giao dịch vào hộ chiếu của người đổi tiền. Bài viết này đưa ra hướng dẫn và mẹo về cách đổi tiền ngoại tệ tại ngân hàng thông qua hai phương thức: trực tiếp tại quầy giao dịch của ngân hàng và qua dịch vụ internet banking hoặc mobile banking.
+
+1. **Đổi tiền tại ngân hàng**:
+    - Đến ngân hàng và điền vào giấy đăng ký mua bán ngoại tệ.
+    - Tuỳ vào thành tích giao dịch mà có thể nhận được ưu đãi về tỷ giá hoặc phiếu ưu đãi.
+    - Kiểm tra các ưu đãi trước khi đổi tiền.
+
+2. **Đổi tiền qua internet banking và mobile banking**:
+    - Sử dụng các kênh trực tuyến như internet banking hoặc mobile banking.
+    - Thường nhận được tỷ giá ưu đãi hơn so với giao dịch tại quầy.
+    - Sau khi đăng ký đổi tiền, đến ngân hàng nhận tiền trong thời gian quy định, nếu không sẽ mất chi phí từ việc hoàn lại giao dịch do biến động tỷ giá.
+
+3. **Thủ tục đổi tiền online**:
+    - Đăng nhập vào trang web hoặc ứng dụng ngân hàng.
+    - Chọn mục ngoại tệ và nhấn đổi tiền.
+    - Nhập các thông tin cần thiết như địa điểm nhận tiền, mục đích đổi, ngày nhận, loại tiền, số tiền đăng ký, và mật khẩu.
+    - Hoàn thành giao dịch và in hóa đơn.
+    - Đến ngân hàng với giấy chứng minh để nhận tiền.
+
+Ngoài ra, còn có mẹo nhỏ là kiểm tra mức ưu đãi phí đổi tiền và loại tiền có thể đổi qua internet để tận dụng được các ưu đãi tốt nhất. Bản tóm tắt:
+
+Để tiết kiệm phí đổi tiền, người dùng có thể so sánh tỷ lệ ưu đãi cho phí đổi tiền và loại tiền có thể đổi được tại các ngân hàng trên trang web của Hiệp hội Ngân hàng Hướng dẫn về Ngoại tệ (http://exchange.kfb.or.kr). Đồng thời, người dùng có thể chọn ngân hàng với chi phí đổi tiền rẻ nhất từ dữ liệu này.
+
+Ví dụ, A - người Philippines dự kiến về quê hương, nếu đổi tiền Hàn Quốc trực tiếp thành tiền nước mình sẽ gặp phí cao và ưu đãi thấp. Do đó, phương pháp tiết kiệm là đổi tiền Hàn Quốc trước thành đô la Mỹ, sau đó đổi từ đô la Mỹ sang tiền nước mình khi tới nơi.
+
+Về chuyển tiền ra nước ngoài, đây là việc gửi tiền từ Hàn Quốc đến quốc gia khác, thường dùng để gửi cho gia đình, người thân. Nếu số tiền chuyển dưới 50,000 USD trong một năm, không cần hồ sơ bổ sung, nhưng khi vượt quá mức này thì cần nộp các giấy tờ chứng nhận. Gần đây, việc phòng chống rửa tiền được tăng cường nên ngân hàng có thể yêu cầu hồ sơ chứng minh nguồn gốc tiền ngay cả khi số tiền chuyển dưới 50,000 USD trong trường hợp nghi ngờ. Thủ tục chuyển tiền bao gồm ngân hàng trong nước tiếp nhận đăng ký, qua ngân hàng trung gian ở nước ngoài và cuối cùng đến ngân hàng địa phương. Đoạn văn tóm tắt quy trình chuyển tiền quốc tế và các vấn đề liên quan đến việc gửi tiền như sau:
+
+1. Quy trình chuyển tiền quốc tế thường mất từ 1 đến 3 ngày và có phí ở mỗi giai đoạn. Trong trường hợp của anh Kim, anh đã chuyển tổng cộng 3,6 tỷ won cho hơn 500 người bằng cách sử dụng sổ tài khoản chuyên dụng và kiếm được 108 triệu won từ phí chuyển tiền. Tuy nhiên, đây là hành vi vi phạm luật giao dịch ngoại tệ do không có đăng ký.
+
+2. Để tiết kiệm chi phí, một số người chọn sử dụng môi giới không chính thức, nhưng điều này có rủi ro cao vì tiền có thể bị mất trong quá trình chuyển.
+
+3. Có hai phương pháp chính để chuyển tiền ra nước ngoài an toàn:
+   - Qua quầy giao dịch tại ngân hàng: An toàn nhưng tốn phí cao và chỉ có thể thực hiện trong giờ làm việc của ngân hàng.
+   - Qua internet banking và mobile banking: Tiện lợi và không cần đến ngân hàng, nhưng vẫn có những phí chuyển tiền liên quan. Để thực hiện chuyển tiền ra nước ngoài qua Internet Banking hoặc Mobile Banking, bạn cần mang theo giấy tờ tùy thân (hộ chiếu, thẻ cư trú, chứng minh nhân dân) và đến chi nhánh ngân hàng. Khi tới ngân hàng, bạn rút số thứ tự và chờ đến lượt. Khi đến lượt, bạn báo với nhân viên rằng bạn muốn sử dụng dịch vụ chuyển tiền ra nước ngoài qua Internet Banking hoặc Mobile Banking và làm theo hướng dẫn của nhân viên để hoàn tất các thủ tục đăng ký.
+
+Nếu bạn sử dụng quầy giao dịch tại ngân hàng, bạn cần làm như sau:
+1. Rút số thứ tự và mang giấy tờ tùy thân (nhớ mang theo hộ chiếu)
+2. Viết bản đăng ký chuyển ngoại tệ, ghi đầy đủ thông tin về người chuyển, ngân hàng nhận, địa chỉ ngân hàng nhận, tên người nhận, số tài khoản của người nhận bằng chữ cái tiếng Anh.
+3. Thanh toán số tiền cần chuyển, lệ phí chuyển tiền, phí điện tín và các phí trung gian khác.
+4. Nhận biên lai và bảo quản kỹ các giấy tờ xác nhận việc chuyển tiền để đề phòng sai sót.
+
+Trước khi đến ngân hàng, hãy kiểm tra lại một lần nữa các hồ sơ và thông tin cần thiết:
+- Hồ sơ chung: Hộ chiếu, giấy đăng ký chuyển tiền ngoại tệ
+- Nếu là chuyển tiền lương của người lao động nước ngoài: Hộ chiếu, hợp đồng lao động hoặc giấy chứng nhận đang làm việc, hồ sơ chứng nhận thu nhập trong nước (khi cần thiết), hồ sơ liên quan đến việc nộp thuế và các giấy tờ xác nhận khác.
+
+Lưu ý: Nếu chuyển tiền dưới 50,000 USD trong một năm thì chỉ cần hộ chiếu. Bản tóm tắt:
+
+Để chuyển tiền quốc tế, không cần thêm giấy tờ xác minh nếu số tiền dưới 50,000 USD mỗi năm. Tuy nhiên, để đăng ký thông tin ngân hàng và làm giao dịch chuyển đổi quốc tế, theo luật phòng chống rửa tiền, cần cung cấp giấy chứng nhận công việc (hợp đồng lao động, giấy xác nhận làm việc,...) và giấy chứng nhận thu nhập trong nước.
+
+Các thông tin cần thiết bao gồm tên, địa chỉ, số điện thoại của người chuyển và người nhận. Ngân hàng sẽ chỉ chuyển tiền sau khi liên lạc với người nhận. Thông tin ngân hàng nhận cần bao gồm tên, địa chỉ, mã số ngân hàng (SWIFT), và số tài khoản người nhận.
+
+Để chuyển tiền ra nước ngoài qua internet banking, khách hàng cần mở tài khoản trực tuyến, đăng ký tài khoản rút tiền, và tham gia các dịch vụ ngân hàng điện tử. Chuyển tiền qua internet thường giảm 50% phí so với chuyển tại quầy. Cần chính xác thông tin tài khoản người nhận, ngân hàng, chi nhánh, và quốc gia để tránh chậm trễ hoặc sai sót. Quá trình chuyển tiền thường mất khoảng 1-3 ngày để hoàn tất. Bài viết hướng dẫn cách chuyển tiền ra nước ngoài qua internet banking bao gồm các bước sau:
+
+1. **Xác nhận thông tin chuyển tiền**: Người dùng cần lựa chọn lý do chuyển tiền, loại ngoại tệ và số tiền cần chuyển. Đồng thời, chọn tài khoản rút tiền và xác định ai sẽ chịu phí trung gian (người gửi hoặc người nhận).
+
+2. **Nhập thông tin người gửi và người nhận**: Cần điền thông tin chi tiết của người gửi và người nhận bằng tiếng Anh, bao gồm họ tên, số điện thoại, email, địa chỉ, số tài khoản và mã ngân hàng nhận tiền.
+
+3. **Hoàn thành giao dịch**: Nhập mã xác thực điện tử, sau đó nhấn nút xác nhận để hoàn tất việc gửi tiền.
+
+Thời gian hoàn thành giao dịch có thể từ 1 đến 3 ngày, tùy thuộc vào quốc gia. Đảm bảo thông tin chính xác để tránh các vấn đề phát sinh. Mọi thắc mắc nên được ghi lại và hỏi nhân viên ngân hàng khi cần. Đoạn văn chỉ dẫn quy trình chuyển tiền ra nước ngoài bằng hai phương pháp: banking qua internet và banking qua mobile. Các bước thực hiện bao gồm: 
+
+1. Nhập thông tin người gửi, người nhận, và ngân hàng nhận tiền.
+2. Nhập mã chứng thực điện tử và xác nhận.
+3. Cài đặt ứng dụng của ngân hàng trên điện thoại và thực hiện chuyển tiền qua app.
+
+Việc chuyển tiền qua Internet banking và mobile banking có thể tiết kiệm phí giao dịch, thường giảm hơn 50% so với giao dịch tại quầy ngân hàng. Các ngân hàng hiện sử dụng các phương thức đăng nhập tiện lợi như mã pin, tăng tính tiện ích và bảo mật. Khách hàng có thể so sánh phí chuyển tiền của các ngân hàng để lựa chọn phương án tiết kiệm nhất. Bài viết hướng dẫn chi tiết về quy trình chuyển tiền ra nước ngoài qua ứng dụng ngân hàng và qua các công ty chuyên về chuyển tiền:
+
+1. **Chuyển tiền qua ứng dụng ngân hàng**:
+   - **Bước 1**: Xác nhận thông tin chuyển tiền, chọn tài khoản rút tiền và người thanh toán phí.
+   - **Bước 2**: Nhập thông tin của người gửi và người nhận, bao gồm thông tin ngân hàng nhận tiền.
+   - **Bước 3**: Nhập mã chứng thực điện tử và hoàn thành việc gửi tiền.
+
+2. **Chuyển tiền qua công ty chuyên chuyển tiền**:
+   - Các công ty như Western Union và MoneyGram cung cấp dịch vụ chuyển tiền nhanh chóng, có thể hoàn thành trong 10 phút.
+   - Nhiều ngân hàng trong nước sử dụng dịch vụ của các công ty này như ngân hàng Kookmin, IBK, KEB, v.v.
+
+Lưu ý: Trước khi sử dụng dịch vụ, cần kiểm tra kỹ về công ty chuyên chuyển tiền. Tóm tắt nội dung văn bản trên:
+
+Khi sử dụng dịch vụ chuyển tiền quốc tế qua các công ty chuyên về chuyển tiền như Western Union hoặc MoneyGram, bạn cần so sánh kỹ về phí và tỷ giá để tránh bất lợi so với việc chuyển tiền qua ngân hàng. Cần kiểm tra xem dịch vụ này có khả dụng tại địa phương bạn hoặc quốc gia đích đến hay không.
+
+Quy trình chuyển tiền gồm các bước: viết bản đăng ký chuyển tiền tại ngân hàng hoặc chi nhánh liên kết, xuất trình giấy tờ cần thiết (bản đăng ký, tiền cần chuyển và chứng minh thư), nhận hóa đơn và mã số xác nhận, và cung cấp thông tin gửi tiền cho người nhận. Người nhận sau đó dùng chứng minh thư và thông tin chuyển tiền đến chi nhánh gần nhất để nhận tiền.
+
+Ngoài ra, còn có dịch vụ chuyển tiền quốc tế qua máy ATM. Để sử dụng, bạn cần đăng ký trước dịch vụ này tại ngân hàng. Sau đó, bạn có thể thực hiện các giao dịch chuyển tiền trực tiếp tại máy ATM bằng cách chọn nội dung chuyển tiền đã đăng ký hoặc gần nhất, và xác nhận tài khoản người nhận. Dưới đây là bản tóm tắt của văn bản:
+
+Văn bản hướng dẫn quy trình chuyển tiền quốc tế từ ngân hàng, bao gồm các bước chọn loại tiền và nhập số tiền cần chuyển, hoàn thành và in hóa đơn. Dịch vụ chuyển tiền đặt biệt của ngân hàng giúp đáp ứng nhu cầu đa dạng của người dùng như chuyển tiền tự động hàng tháng hoặc chuyển tiền theo loại tiền tệ của quốc gia người nhận. Gần đây, nhờ công nghệ Fintech, các ngân hàng cung cấp dịch vụ chuyển tiền không cần tài khoản và với phí thấp, phủ sóng trên hơn 200 quốc gia. Các dịch vụ này mỗi ngân hàng có cách gọi, quốc gia sử dụng và thủ tục khác nhau, nên cần tìm hiểu kỹ trước khi sử dụng.
+
+Ngoài ra, văn bản cũng mô tả dịch vụ chuyển tiền trực tuyến của các công ty Fintech nhỏ, cho phép chuyển tiền quốc tế 24/24 với phí rẻ hơn tới 90% so với ngân hàng, và nhận tiền nhanh chóng trong ngày hoặc ngày hôm sau. Giới hạn chuyển tiền là 5,000 đô la mỗi giao dịch và 50,000 đô la mỗi năm. Tuy nhiên, phương thức chuyển và xác nhận người nhận có thể khác nhau giữa các công ty, nên cần lưu ý khi sử dụng dịch vụ này. Bài viết đề cập đến các phương thức chuyển tiền và các dịch vụ liên quan của ngân hàng. Các lỗi chuyển tiền nhầm thường xuyên xảy ra và việc thu hồi lại khoản tiền không dễ dàng, do đó cần nhập đúng thông tin người nhận và kiểm tra kỹ trước khi xác nhận. Tùy từng ngân hàng sẽ có các dịch vụ chuyển tiền khác nhau như chuyển tiền tự động, chuyển tiền không cần tài khoản, chuyển tiền theo loại tiền tại quốc gia người nhận, và dịch vụ nhận tiền ngay lập tức.
+
+1. **Chuyển tiền tự động:** Dành cho những ai muốn chuyển tiền định kỳ mỗi tháng với mức tiền cố định.
+2. **Chuyển tiền không cần tài khoản:** Tiện lợi nếu người nhận không có tài khoản ngân hàng hoặc không biết số tài khoản.
+3. **Chuyển tiền hai lần/loại tiền tại quốc gia đó:** Thích hợp khi muốn gửi qua đô la Mỹ và người nhận nhận tiền theo loại tiền tại quốc gia của họ.
+4. **Sử dụng dịch vụ gửi tiền nhận ngay lập tức:** Người nhận có thể nhận tiền ngay lập tức nếu ngân hàng trong nước có chi nhánh tại nước ngoài.
+
+Bài viết cũng khuyến nghị liên hệ trực tiếp với các ngân hàng để biết thông tin chi tiết hơn về từng dịch vụ cụ thể. Văn bản này cung cấp thông tin về các dịch vụ chuyển tiền quốc tế từ các ngân hàng Hàn Quốc như Woori, Hana và Kookmin. Nó nhấn mạnh rằng cần phải liên hệ trước với ngân hàng để biết thêm chi tiết vì các thông tin như quốc gia mà dịch vụ hỗ trợ, loại tiền tệ và phương thức sử dụng có thể khác nhau giữa các ngân hàng.
+
+Ví dụ:
+1. Chuyển tiền nhanh toàn cầu Woori: Có thể chuyển tiền với phí 5.000 won, áp dụng cho một số quốc gia nhất định như Việt Nam.
+2. Chuyển tiền KB ONE ASIA (Kookmin Bank): Phí chuyển 1.000 won và hỗ trợ 192 địa điểm tại 20 quốc gia.
+3. Hana ez: Phí chuyển từ 3.000 won và hỗ trợ hơn 200 quốc gia.
+
+Ngoài ra, văn bản cũng cảnh báo về khả năng lừa đảo từ các công ty không hợp pháp. Người tiêu dùng nên kiểm tra xem các công ty này đã được đăng ký chính thức hay chưa trước khi thực hiện bất kỳ giao dịch nào. Tóm tắt:
+
+Văn bản hướng dẫn về việc chuyển tiền ra nước ngoài thông qua các công ty chuyển tiền nhỏ. Đầu tiên, người dùng cần kiểm tra thông tin của các công ty này trên cổng thông tin tài chính Fine. Sau đó, cài đặt ứng dụng, đăng ký thành viên và cung cấp thông tin cần thiết như thông tin người gửi và người nhận, loại tiền, số tiền và lý do chuyển tiền. Cuối cùng, người dùng tiến hành nhập mật khẩu chứng thực để hoàn tất yêu cầu chuyển tiền.
+
+Các bước cơ bản:
+1. Kiểm tra công ty chuyển tiền trên Fine.
+2. Cài đặt ứng dụng chuyển tiền.
+3. Gia nhập hội viên với các giấy tờ tùy thân cần thiết.
+4. Nhập thông tin người gửi và người nhận.
+5. Nhập thông tin chuyển tiền và lý do.
+6. Nhập mật khẩu chứng thực để hoàn tất.
+
+Ngoài ra, văn bản còn khuyên người dùng kiểm tra tỷ giá trước khi đổi tiền và nên sử dụng internet banking để có lợi hơn khi đổi tiền. Nội dung chính của văn bản đề cập đến việc đổi tiền và chuyển tiền ra nước ngoài, những lợi ích khi sử dụng internet banking, và cách phòng tránh lừa đảo tài chính. Cụ thể:
+
+1. **Đổi tiền qua internet banking**:
+   - Có lợi về tỷ giá đổi tiền.
+   - Nên hỏi trước ngân hàng về các loại tiền tệ ngoài đô la.
+   
+2. **Cách tiết kiệm phí chuyển tiền**:
+   - Phí chuyển tiền ra nước ngoài có thể khác nhau tùy ngân hàng.
+   - Chuyển tiền qua internet hoặc mobile banking có thể tiết kiệm đến 50% phí.
+   - Các công ty chuyển tiền nhỏ có thể đáng kể hơn nhưng có giới hạn.
+
+3. **Chuyển tiền đến 50,000 USD mà không cần hồ sơ chứng nhận**:
+   - Cần đăng ký thông tin khách hàng và chỉ định ngân hàng giao dịch quốc tế.
+   - Vượt mức 50,000 USD cần giấy tờ chứng nhận thu nhập.
+
+4. **Phòng tránh lừa đảo tài chính**:
+   - Trong đó phổ biến nhất là Phishing, bao gồm voice phishing (lừa đảo qua điện thoại) và messenger phishing (lừa đảo qua tin nhắn).
+   - Cần chú ý để không trở thành người trợ giúp cho việc rút tiền trong cuộc lừa đảo.
+   - Các hình thức lừa đảo khác như Pharming và Smishing qua internet và smartphone, cũng cần có biện pháp phòng tránh cụ thể.
+
+Văn bản cung cấp hướng dẫn cụ thể và chi tiết về các việc cần làm để quản lý tài chính cá nhân hiệu quả và an toàn khi đổi tiền, chuyển tiền và phòng tránh lừa đảo tài chính. Bài viết cung cấp thông tin về các loại lừa đảo tài chính và cách phòng tránh. Các loại lừa đảo bao gồm lừa đảo cho vay tiền, sử dụng sổ tài khoản chuyên dụng dành để lừa đảo, và lừa đảo bảo hiểm. Bài viết cũng kể câu chuyện về một người tên Hương bị lừa bởi một người tự xưng là nhân viên điều tra viện kiểm sát, yêu cầu Hương cung cấp thông tin tài chính qua một trang web giả mạo. Kẻ lừa đảo sau đó đã đăng ký lại mã chứng thực điện tử và rút tiền từ tài khoản tiết kiệm của Hương cùng với các khoản vay từ thẻ tín dụng, tổng cộng 10 triệu won và biến mất. Cuối cùng, bài viết khuyến cáo người đọc cần cảnh giác với các cuộc gọi yêu cầu thông tin cá nhân từ những kẻ tự xưng là cơ quan nhà nước. Tóm tắt:
+
+Người nước ngoài ở Hàn Quốc dễ trở thành mục tiêu của tội phạm lừa đảo tài chính, đặc biệt thông qua điện thoại. Cảnh sát và các cơ quan công cộng không bao giờ yêu cầu thông tin cá nhân qua điện thoại; các cuộc gọi như vậy 100% là lừa đảo. Từ năm 2019 đến nay, các vụ lừa đảo qua điện thoại ở Hàn Quốc đã gia tăng, mỗi ngày có khoảng 198 vụ và thiệt hại tiền bạc lên đến hàng tỷ won. Mặc dù các biện pháp phòng ngừa và giới hạn hoạt động của các tổ chức lừa đảo do Covid-19 đã giúp giảm quy mô thiệt hại, người nước ngoài mới đến vẫn dễ bị lừa hơn và cần cẩn trọng.
+
+Các hình thức lừa đảo tài chính phổ biến gồm 'Phishing' (sử dụng điện thoại và tin nhắn để lấy cắp thông tin cá nhân). 'Voice phishing' kết hợp từ giọng nói, thông tin cá nhân và câu cá, nhằm lấy cắp thông tin qua cuộc gọi. Ban đầu, nạn nhân chủ yếu là những người có kiến thức tài chính kém.
+
+Thống kê thiệt hại tiền từ lừa đảo qua điện thoại từ 2017 đến 2021 cho thấy con số này đã giảm từ 672 tỷ won năm 2017 xuống còn 168,2 tỷ won năm 2021. Tài liệu này tóm tắt tình trạng lừa đảo qua điện thoại (voice phishing) tại Hàn Quốc vào năm 2021, được công bố vào ngày 19 tháng 4 năm 2022. Nó đề cập rằng, tội phạm lừa đảo ngày càng phát triển và phạm vi người bị hại rộng hơn không phân biệt độ tuổi, nghề nghiệp hay tầng lớp xã hội. Dưới đây là những điểm chính:
+
+### Đặc điểm của lừa đảo qua điện thoại (Voice Phishing):
+1. **Mạo danh cơ quan**: Tội phạm giả danh các cơ quan công quyền và công ty tài chính.
+2. **Áp lực tâm lý**: Gây áp lực bằng cách thông báo các thông tin giả như lộ thông tin cá nhân hay dính líu đến vụ án tội phạm.
+3. **Làm giả số điện thoại**: Giả mạo số điện thoại của các cơ quan hành chính và công ty tín dụng.
+4. **Nói tiếng Hàn thành thạo**: Sử dụng tiếng Hàn thành thạo để tạo lòng tin.
+5. **Trực tiếp rút tiền/chuyển khoản**: Tìm cách lấy thông tin tài chính của nạn nhân để rút tiền trực tiếp.
+6. **Sổ tài khoản chuyên dụng**: Sử dụng sổ tài khoản mở dưới các danh nghĩa khác nhau để lừa đảo.
+
+### Cách phòng ngừa lừa đảo Voice Phishing:
+1. **Không cung cấp thông tin tài chính**: Không cung cấp thông tin tài chính qua điện thoại với bất kỳ lý do nào.
+2. **Cẩn trọng với ATM**: Nếu bị dụ dỗ đến máy ATM thì đó gần như chắc chắn là lừa đảo.
+
+Người dân cần có ý thức và cẩn trọng để tránh trở thành nạn nhân của các hình thức lừa đảo này. Bài viết này đề cập đến các biện pháp phòng tránh lừa đảo tài chính, đặc biệt là lừa đảo qua điện thoại. Các điểm chính bao gồm:
+
+1. Không bao giờ làm theo yêu cầu chuyển tiền khi có người nào đó gọi điện thoại bảo gia đình bạn đang gặp nguy cấp.
+2. Trong trường hợp bị lừa đảo bắt cóc, nên kiểm tra trước số điện thoại của bạn bè, giáo viên của con cái để xác nhận tình hình thực sự.
+3. Nếu nhận được yêu cầu cung cấp thông tin giao dịch tài chính, cần phải xác nhận tính xác thực của nội dung thông qua liên hệ trực tiếp với các cơ quan hoặc công ty tài chính.
+4. Nếu bị thiệt hại, phải lập tức yêu cầu đình chỉ thanh toán qua tổng đài cảnh sát hoặc công ty tài chính.
+5. Lưu ý rằng số điện thoại gọi đến có thể bị làm giả. Đừng để bị lừa bởi các lời khẳng định an toàn từ kẻ gian lận.
+6. Hãy thử trải nghiệm tại phòng trải nghiệm lừa đảo qua giọng nói để hiểu rõ hơn về cách nhận diện và tránh lừa đảo. Bạn có thể trải nghiệm trực tiếp giọng nói của bọn lừa đảo hoặc khai báo giọng nói của chúng trên trang web của Viện Giám sát Tài chính thông qua mục 'phòng trải nghiệm lừa đảo qua cuộc gọi điện thoại'. Có nhiều trường hợp người nước ngoài vô tình trở thành trợ giúp cho bọn lừa đảo qua việc rút tiền tại máy ATM sau khi xem các quảng cáo tuyển dụng trên internet hoặc SNS. Những hành vi này là bất hợp pháp và có thể dẫn đến việc bị bắt giữ và trục xuất. Qua các ví dụ thực tế, chúng ta thấy những người vô tình liên quan đến lừa đảo và bị pháp luật xử lý, điều này cảnh báo mọi người cần cẩn trọng để không bị liên lụy oan ức vào các tội phạm lừa đảo này. Bài viết này đề cập đến các thủ đoạn lừa đảo bằng tin nhắn, đặc biệt là “phishing” qua mạng xã hội và tin nhắn. Một người nhận được thông tin tài khoản ngân hàng của mình bị khóa và đã thử liên lạc với trợ lý, nhưng tài khoản SNS đã bị xóa bỏ. Lừa đảo qua tin nhắn thường xảy ra bằng cách hacker lấy cắp tên tài khoản và mật khẩu của người khác, sau đó gửi tin nhắn yêu cầu tiền từ bạn bè và gia đình của nạn nhân. Các hình thức lừa đảo phổ biến bao gồm giả mạo cơ quan tài chính để dẫn dụ vào trang web lừa đảo hoặc mạo danh người thân để yêu cầu gửi tiền gấp. Một ví dụ thực tế là một người đã bị lừa chuyển tiền khi nhận được tin nhắn từ bạn báo con bị bệnh và cần tiền gấp. Để phòng tránh lừa đảo qua tin nhắn, các biện pháp cảnh giác được khuyên dùng. Tóm tắt:
+
+1. Khi nhận được tin nhắn yêu cầu tiền hoặc cung cấp thông tin cá nhân, hãy gọi điện thoại để xác nhận thay vì phản hồi qua tin nhắn.
+2. Không cài đặt hoặc nhấn vào các liên kết URL không rõ nguồn gốc.
+3. Từ chối cung cấp thẻ chứng minh và thông tin cá nhân nếu có tin nhắn yêu cầu.
+4. Từ chối tất cả các tin nhắn yêu cầu tiền bạc với các lý do như nâng điểm tín dụng, chuyển đổi lãi suất thấp, v.v.
+5. Kiểm tra với công ty thẻ tín dụng nếu nhận được tin nhắn thanh toán không sử dụng, không phải liên lạc theo thông tin trong tin nhắn.
+6. Xóa ngay lập tức các file không rõ nguồn gốc trong tin nhắn.
+
+Pharming là một hình thức lừa đảo làm cho thiết bị của người dùng nhiễm mã độc, dẫn dụ họ vào các trang web ngân hàng giả để chiếm đoạt thông tin và tiền bạc. Các biện pháp phòng tránh bao gồm:
+- Không nhập thông tin thẻ bảo an khi được yêu cầu.
+- Không nhấn vào các file hay email không rõ nguồn gốc.
+- Sử dụng mật khẩu an toàn và thay đổi định kỳ.
+- Tham gia 'dịch vụ phòng tránh lừa đảo tài chính điện tử' từ ngân hàng. 
+
+Lừa đảo tài chính qua internet và smartphone bao gồm Pharming và Smishing nên người dùng cần cảnh giác cao để bảo vệ thông tin cá nhân và tiền bạc của mình. Bài viết nói về cách sử dụng dịch vụ giao dịch tài chính một cách an toàn hơn và cung cấp các mẹo để tránh lừa đảo tài chính.
+
+1. Thường xuyên kiểm tra và loại bỏ mã độc hại.
+
+2. Smishing là hình thức lừa đảo kết hợp giữa tin nhắn SMS và phishing. Tin nhắn chứa địa chỉ ứng dụng độc hại để đánh cắp thông tin cá nhân và tài chính của người dùng.
+
+3. Một câu chuyện về lừa đảo thật: Cô L đã bị mất hết tiền trong tài khoản ngân hàng sau khi nhập thông tin cá nhân vào một trang web giả mạo.
+
+4. Các dịch vụ phòng tránh lừa đảo tài chính điện tử:
+   - **Dịch vụ chỉ định thiết bị**: Người dùng có thể đăng ký tối đa 5 thiết bị để giao dịch mà không cần thêm bước chứng nhận.
+   - **Dịch vụ chứng nhận bổ sung**: Khi giao dịch tài chính, người dùng sẽ phải thực hiện thêm một bước chứng nhận để xác minh danh tính, đặc biệt khi chuyển tiền qua Internet Banking với số tiền lớn hơn 3,000,000 won mỗi ngày. Văn bản này cung cấp thông tin về các dịch vụ phòng tránh lừa đảo tài chính điện tử và cách phòng ngừa.
+
+1. Các dịch vụ phòng tránh lừa đảo tài chính điện tử có thể được sử dụng bởi bất kỳ ai sử dụng dịch vụ ngân hàng trực tuyến.
+2. Các loại hình lừa đảo Smishing rất đa dạng, bao gồm gửi tin nhắn giả mạo như thiệp cưới, thiệp thôi nôi, phiếu mua hàng miễn phí, giấy triệu tập của cảnh sát, kiểm tra tiền vi phạm giao thông, kiểm tra ung thư miễn phí, tra cứu tiền trong thẻ, v.v...
+3. Các biện pháp phòng tránh lừa đảo Smishing gồm:
+   - Không bấm vào các đường link hoặc số điện thoại không rõ nguồn gốc trong tin nhắn.
+   - Không cài đặt ứng dụng từ nguồn không rõ ràng, tăng cường bảo mật trên smartphone và chỉ tải ứng dụng từ các cửa hàng ứng dụng đã được công nhận.
+   - Cài đặt và thường xuyên cập nhật chương trình vắc xin cho máy.
+   - Không cung cấp thông tin cá nhân và tài chính khi được yêu cầu xác nhận danh tính, kiểm tra nhận tiền hoặc đặt hẹn tiêm vắc xin.
+
+Ví dụ cụ thể về một nạn nhân nhận tin nhắn giả mạo đã bị cài đặt ứng dụng độc hại và mất tiền. Văn bản cung cấp thông tin về cách phòng tránh lừa đảo tài chính và các bước cần thực hiện khi gặp phải các tình huống liên quan. Cụ thể:
+
+1. Đối với dịch vụ tính tiền qua điện thoại, nếu không cần sử dụng, hãy liên lạc với tổng đài của nhà mạng để chặn dịch vụ này.
+2. Phòng chống lừa đảo tài chính, cần ghi nhớ số điện thoại và địa chỉ các cơ quan có thể hỗ trợ:
+   - Tổng đài công ty tài chính để yêu cầu dừng thanh toán khi phát hiện tài khoản bị lộ thông tin.
+   - Số điện thoại của các cơ quan như Viện Giám sát Tài chính (1332), Sở Cảnh sát (112), Viện Chấn hưng Internet Hàn Quốc (118) và Công đoàn Hỗ trợ Luật pháp Đại Hàn (132) để khai báo thiệt hại và yêu cầu hỗ trợ.
+3. Cảnh báo về lừa đảo tài chính qua quảng cáo cho vay tiền:
+   - Các công ty lừa đảo thường sử dụng tên của các công ty tín dụng nổi tiếng để quảng cáo cho vay với lãi suất thấp qua các phương tiện truyền thông như điện thoại, tin nhắn, SNS, v.v.
+   - Những công ty này thường yêu cầu nộp các lệ phí khác nhau trước khi cắt đứt liên lạc sau khi nhận được tiền. 
+
+Văn bản nhấn mạnh việc cần cẩn thận và lưu giữ thông tin liên lạc của các cơ quan hỗ trợ để phòng tránh và xử lý khi gặp phải lừa đảo tài chính. Đoạn văn này nói về các thủ đoạn lừa đảo tài chính và cách phòng tránh. Kẻ lừa đảo giả danh nhân viên ngân hàng để lừa người khác chuyển tiền vào tài khoản của họ, sau đó chiếm đoạt tiền. Các dấu hiệu lừa đảo bao gồm yêu cầu gửi các loại phí như phí bảo đảm, phí điện toán hay thông tin cá nhân như số điện thoại, bản sao sổ ngân hàng, thẻ Check. Để phòng tránh, cần báo cáo các cuộc gọi và tin nhắn lừa đảo là tin rác, không trả tiền trước cho các khoản vay, và không tiết lộ thông tin cá nhân hay giao thẻ ngân hàng cho người khác. Ví dụ thực tế được nêu ra là ông K bị lừa chuyển tiền vào tài khoản của kẻ lừa đảo và mất tiền. Bài viết này nói về các tài khoản chuyên dụng dành cho lừa đảo, đặc biệt là tài khoản đứng tên người thứ ba. Các tội phạm sử dụng chúng để tránh bị truy tìm và thực hiện các hành vi lừa đảo như ""voice phishing"". Gần đây, các tội phạm voice phishing sử dụng nhiều thủ thuật đa dạng để thu nhập và sử dụng các tài khoản này, và có thể sử dụng tên của bạn mà bạn cũng không biết, do đó cần phải cảnh giác cao.
+
+Tài khoản này sẽ bị đình chỉ thanh toán và gặp nhiều hạn chế như không thể giao dịch điện tử, hay mở tài khoản mới. Ngoài ra, việc chuyển nhượng hay cho thuê tài khoản này cũng là hành vi bất hợp pháp và có thể bị phạt tù lên đến 5 năm và phạt tiền 30 triệu won.
+
+Các loại hình lừa đảo bao gồm: 
+1. Yêu cầu mượn sổ tài khoản qua tin nhắn hoặc SNS với lời hứa sẽ mang lại thu nhập cao trong thời gian ngắn.
+2. Lừa đảo thông qua các trang web tìm việc bán thời gian, yêu cầu cung cấp thông tin cá nhân và tài khoản để chuyển tiền của người bị hại rồi yêu cầu chuyển lại hoặc rút tiền mặt. Bài viết này nói về cách thức mà các kẻ lừa đảo sử dụng để lấy thông tin và tiền từ người khác một cách bất hợp pháp, tập trung vào việc lừa đảo qua việc sử dụng tài khoản ngân hàng. Cụ thể, các đối tượng này giả làm công ty tài chính hoặc nhân viên ngân hàng để tiếp cận những người cần vay tiền, gửi tin nhắn hoặc gọi điện thoại để thuyết phục họ rằng họ nghi ngờ chuyển nhầm tiền và yêu cầu hoàn trả.
+
+Một ví dụ cụ thể là anh K, một nam thanh niên 20 tuổi, đã bị lừa khi tìm việc trên trang web. Anh được giới thiệu làm công việc mua đồ hộ người khác và được yêu cầu cung cấp số tài khoản ngân hàng cá nhân. Sau khi nhận được tiền chuyển vào tài khoản của mình, anh K đã chuyển tiếp lại số tiền đó nhưng thực tế đó là tiền từ các nạn nhân khác bị lừa, điều này khiến anh vô tình trở thành người tiếp tay cho hoạt động lừa đảo.
+
+Để phòng tránh lừa đảo, bài viết đưa ra một số lời khuyên như: không cho mượn hay chuyển nhượng tài khoản ngân hàng của mình, từ chối mọi yêu cầu chuyển khoản lại hoặc rút tiền mặt nếu không rõ nguồn gốc tiền, từ chối cung cấp thông tin cá nhân hoặc tài khoản ngân hàng nếu chưa được tuyển dụng chính thức, và phải liên lạc với ngân hàng ngay lập tức nếu nhận thấy sự việc đáng ngờ. Bài viết giải thích về lừa đảo bảo hiểm và cách phòng tránh. Lừa đảo bảo hiểm là hành động lừa công ty bảo hiểm để nhận tiền bồi thường, bằng cách không trung thực về tiểu sử bệnh tật hoặc giả mạo tai nạn. Các hành vi này có thể rất phức tạp và đa dạng, có sự tham gia của nhiều người, và có thể bao gồm cả tổ chức chuyên lừa đảo.
+
+Các đặc điểm chính của lừa đảo bảo hiểm bao gồm:
+1. Phức tạp và đa dạng: Có nhiều phương thức lừa đảo như giết người, đốt nhà để nhận tiền bảo hiểm.
+2. Phạm tội có đồng phạm: Thường có sự tham gia của từ hai người trở lên.
+3. Tổ chức hóa và tinh vi hóa: Phát triển thành các tổ chức lừa đảo bảo hiểm chuyên nghiệp với nhiều người tham gia, sử dụng các phương thức tinh vi như tạo ra tai nạn giao thông hay gây cháy.
+
+Các loại hình chính của lừa đảo bảo hiểm bao gồm thông đồng với môi giới để làm giả hồ sơ chuẩn đoán và nhập viện. Bài viết nói về các hành vi lừa đảo bảo hiểm và cách phòng tránh. Các hành vi lừa đảo bảo hiểm bao gồm:
+
+1. Làm hồ sơ chẩn đoán giả hoặc thủ tục nhập viện giả để nhận tiền bảo hiểm.
+2. Cố tình gây ra tai nạn ô tô bằng nhiều phương tiện khác nhau nhằm nhận tiền bảo hiểm.
+3. Nhân viên giao hàng sử dụng xe hai bánh cố tình gây tai nạn để nhận tiền bảo hiểm.
+
+Cách phòng tránh lừa đảo bảo hiểm:
+1. Ngờ vực và từ chối khi có ai đó yêu cầu thực hiện các hành vi phạm pháp như cố tình gây ra tai nạn.
+2. Không thông báo nội dung tai nạn khác với thực tế để nhận tiền bảo hiểm, dù là số tiền nhỏ.
+3. Báo cáo với viện giám sát tài chính hoặc công ty bảo hiểm khi nhận được đề nghị lừa đảo bảo hiểm hoặc bị thiệt hại do lừa đảo bảo hiểm.
+
+Một câu chuyện cụ thể về anh L, một người di trú vào Hàn Quốc, đã không khai báo tiền sử bệnh án khi đăng ký bảo hiểm và nhận tiền bảo hiểm, được xem là lừa đảo bảo hiểm.
+
+Người đọc được khuyến cáo hãy khai báo tại ""Trung tâm khai báo lừa đảo bảo hiểm"" khi bị thiệt hại do lừa đảo bảo hiểm. Văn bản trên cung cấp thông tin liên lạc của các cơ quan và công ty bảo hiểm để báo cáo lừa đảo tài chính tại Hàn Quốc. Bao gồm:
+
+1. **Viện Giám Sát Tài Chính (금융감독원)**:
+   - **Điện thoại**: 1332 → số 4 → số 4 hoặc Fax: 02-3145-8711
+   - **Trang web**: Trung tâm ngăn ngừa lừa đảo bảo hiểm
+
+2. **Các công ty bảo hiểm**:
+   - Mỗi công ty bảo hiểm có trung tâm khai báo lừa đảo bảo hiểm trên trang web riêng.
+
+3. **Danh sách công ty bảo hiểm nhân thọ (생명보험회사)**:
+   - Ví dụ: Hanwha Life (한화생명), Samsung Life (삼성생명), Kyobo Life (교보생명)...
+
+4. **Danh sách công ty bảo hiểm thiệt hại (손해보험회사)**:
+   - Ví dụ: Samsung Fire (삼성화재), Hyundai Marine (현대해상), KB Insurance (KB손해보험)...
+
+5. **Phòng tránh lừa đảo tài chính**:
+   - Khuyến cáo nhận biết các hình thức lừa đảo qua smartphone và internet, đặc biệt quan trọng đối với gia đình đa văn hóa và người lao động nước ngoài.
+
+Văn bản nhấn mạnh tầm quan trọng của việc nắm bắt thông tin đúng đắn và cảnh giác để tránh bị lừa đảo tài chính. Bài viết cảnh báo người lao động nước ngoài về nguy cơ bị lừa đảo tài chính và nhấn mạnh những điều quan trọng cần nhớ để tránh trở thành nạn nhân. 
+
+1. Không để lộ thông tin cá nhân một cách tùy tiện, đặc biệt là khi có yêu cầu qua mạng từ cơ quan hành chính giả mạo, các công ty viễn thông hay tài chính. 
+2. Nếu bị lừa đảo, cần liên hệ ngay cơ quan cảnh sát (112) hoặc tổng đài tài chính để yêu cầu đình chỉ giao dịch. 
+3. Không cho người khác mượn sổ ngân hàng vì đây là hành vi phạm pháp có thể dẫn đến trách nhiệm dân sự, hình sự và gánh nặng tài chính.
+4. Cảnh giác với những đề nghị vượt quá tiêu chuẩn bình thường, có thể là lừa đảo bảo hiểm như làm giả giấy tờ hay gây tai nạn cố ý.
+
+Ngoài ra, bài viết còn cung cấp thông tin về các địa chỉ và tổng đài trợ giúp người nước ngoài khi cần thiết. Dưới đây là tóm tắt văn bản về các trung tâm tài chính và chi nhánh ngân hàng tại Hàn Quốc:
+
+1. Các trung tâm tài chính cung cấp các dịch vụ đa ngôn ngữ:
+    - **Ansan Danwon**: tiếng Trung, Indonesia, Thái, Việt, Philipin, Uzbek, Nga
+    - **Gimhae**: tiếng Uzbek, Nga, Indonesia, Philipin
+    - **Uijeongbu**: tiếng Thái, Campuchia
+    - **Hwaseong**: tiếng Bangladesh
+    - **Seoul (Kwanghuidong)**: tiếng Mông Cổ, Nga
+    - **Seoul (Seoyeouido)**: tiếng Campuchia, Philipin
+    - **Cheonan**: tiếng Nga, Uzbek
+
+2. Các chi nhánh ngân hàng cung cấp dịch vụ ngôn ngữ theo địa chỉ cụ thể:
+    - **Yeongtong, Suwon**: tiếng Trung
+    - **Cảng Incheon**: tiếng Việt
+    - **Trạm tàu Magokseo, Seoul**: tiếng Trung
+    - **Kuro, Seoul**: tiếng Trung
+    - **Singilseo, Seoul**: tiếng Trung
+    - **Sinjeju, Jeju**: tiếng Trung
+    - **Seogwipo, Jeju**: tiếng Trung
+    - **Trường Đại Học Seoul**: tiếng Trung
+    - **Gimpogurae**: tiếng Campuchia
+
+Thông tin gồm số điện thoại liên lạc và địa chỉ cụ thể được cung cấp cho từng trung tâm và chi nhánh. Bản tóm tắt thông tin liên lạc chi tiết các chi nhánh ngân hàng tại Hàn Quốc cung cấp nhiều ngôn ngữ hỗ trợ như tiếng Nga, tiếng Trung Quốc, tiếng Việt, tiếng Mông Cổ, tiếng Campuchia và tiếng Myanmar. Một số chi nhánh có nhân viên bản địa và cung cấp dịch vụ vào cuối tuần. Các chi nhánh bao gồm:
+
+1. Ngân hàng Kookmin chi nhánh Wongok-dong tại Ansan cung cấp hỗ trợ nhiều ngôn ngữ.
+2. Chi nhánh Ojang-dong ở Seoul có hỗ trợ tiếng Mông Cổ nhưng không tuyển nhân viên bản địa.
+3. Trung tâm tài chính tổng hợp Uijeongbu cung cấp tiếng Việt và tiếng Campuchia.
+4. Trung tâm tài chính tổng hợp Gyeonggi Gwangju cung cấp tiếng Campuchia và tiếng Nga.
+5. Trung tâm tài chính tổng hợp Hwaseong Hyangnam cung cấp tiếng Campuchia, tiếng Nga, và tiếng Việt.
+6. Trung tâm tài chính tổng hợp Pyeongtaek cung cấp tiếng Campuchia và tiếng Myanmar.
+7. Chi nhánh Gimpotongjin không có nhân viên bản địa.
+8. Trung tâm tài chính tổng hợp Gimhae cung cấp tiếng Campuchia. Đoạn văn cung cấp thông tin về các chi nhánh ngân hàng tại Hàn Quốc, bao gồm số điện thoại, ngôn ngữ hỗ trợ và địa chỉ của từng chi nhánh. Ngoài ra, văn bản còn đề cập đến các chi nhánh có nhân viên bản địa và những chi nhánh hoạt động vào cuối tuần (thứ bảy hoặc chủ nhật). Các ngân hàng này hỗ trợ nhiều ngôn ngữ khác nhau như tiếng Nga, tiếng Trung, tiếng Việt, tiếng Thái, tiếng Anh, tiếng Nhật, v.v. Dưới đây là tóm tắt của văn bản:
+
+Văn bản liệt kê các chi nhánh kinh doanh và trung tâm tài chính của nhiều ngân hàng khác nhau tại Hàn Quốc, bao gồm thông tin về địa chỉ, số điện thoại, và các ngôn ngữ hỗ trợ. Một số trung tâm và chi nhánh hỗ trợ ngôn ngữ đa dạng như tiếng Việt, tiếng Thái Lan, tiếng Trung Quốc, tiếng Campuchia, tiếng Mông Cổ, và tiếng Uzbekkistan. Nhiều chi nhánh cũng có nhân viên bản địa sử dụng các ngôn ngữ này. Các chi nhánh thường hoạt động vào cuối tuần và được sắp xếp theo vị trí địa lý như Seoul, Daegu, Yongin, Ansan và các thành phố khác. Bài viết liệt kê các chi nhánh ngân hàng tại Hàn Quốc, đặc biệt là ở các thành phố và tỉnh như Seoul, Gyeonggi, Gyeongsangbuk, Gyeongsangnam, Chungcheongnam. Mỗi ngân hàng có thông tin về địa chỉ, số điện thoại và ngôn ngữ phục vụ như tiếng Trung Quốc, tiếng Nga, tiếng Uzbek, tiếng Việt Nam, tiếng Philiphin, tiếng Nepan, và tiếng Sri Lanka. Các chi nhánh này cung cấp dịch vụ tài chính cho người nước ngoài và có nhân viên thông thạo các ngôn ngữ tương ứng để hỗ trợ khách hàng. Đây là danh sách các ngân hàng tại Hàn Quốc cùng các số điện thoại tổng đài tư vấn tiếng nước ngoài của họ. Mỗi ngân hàng cung cấp dịch vụ bằng nhiều ngôn ngữ khác nhau như tiếng Anh, tiếng Trung Quốc, tiếng Việt Nam, tiếng Nhật Bản, tiếng Nga, tiếng Thái Lan, tiếng Mông Cổ, và nhiều ngôn ngữ khác. Dưới đây là tóm tắt các số điện thoại và ngôn ngữ khác nhau có thể nhận tư vấn từ mỗi ngân hàng:
+
+1. **Ngân hàng Woori**: 1599-2288 - Tiếng Anh, tiếng Trung Quốc, tiếng Việt Nam, tiếng Uzbek, tiếng Nga, tiếng Thái Lan, tiếng Mông Cổ, tiếng Nhật Bản, tiếng Campuchia, tiếng Indonesia, tiếng Philiphin.
+2. **Ngân hàng Kookmin**: 1599-4477 - Tiếng Anh, tiếng Trung Quốc, tiếng Nhật Bản, tiếng Việt Nam, tiếng Nga, tiếng Campuchia.
+3. **Ngân hàng Shinhan**: 1577-8380 - Tiếng Anh, tiếng Trung Quốc, tiếng Nhật Bản, tiếng Việt Nam, tiếng Thái Lan, tiếng Mông Cổ, tiếng Campuchia, tiếng Philiphin, tiếng Indonesia, tiếng Nga (tiếng Uzbek).
+4. **Ngân hàng Hana** (HOTLINE - Call center): 1599-6111 - Tiếng Anh, tiếng Trung Quốc, tiếng Nhật Bản.
+5. **Ngân hàng Hana** (Overseas remittance - chuyển tiền ra nước ngoài): 1599-1111 (+8) - Tiếng Anh, tiếng Trung Quốc, tiếng Việt Nam, tiếng Mông Cổ, tiếng Indonesia, tiếng Nepal, tiếng Campuchia.
+6. **Tư vấn chuyên dụng cho người nước ngoài - HOTLINE**: Số điện thoại và ngôn ngữ khác nhau như tiếng Sri Lanka, tiếng Thái Lan, tiếng Việt Nam, tiếng Philiphin, tiếng Uzbekistan, tiếng Campuchia, tiếng Myanmar.
+7. **Standard Chartered Bank**: 1577-7744 - Tiếng Anh.
+8. **Ngân hàng Hàn Quốc Citi**: 02-3704-7100, 02-3704-7711 - Tiếng Anh.
+9. **Ngân hàng doanh nghiệp vừa và nhỏ**: 1566-2566 - Tiếng Anh, tiếng Trung Quốc, tiếng Nhật Bản, tiếng Việt Nam, tiếng Indonesia, tiếng Thái Lan, tiếng Nga.
+10. **Ngân hàng Nonghyup**: 1661-3000, 1522-3000 - Tiếng Anh, tiếng Nhật Bản, tiếng Trung Quốc, tiếng Việt Nam, tiếng Nga.
+11. **Ngân hàng Suhyup**: 1588-1515, 1644-1515 - Ngôn ngữ duy nhất được hỗ trợ là tiếng Anh.
+
+Ngoài ra, cũng có thông tin địa chỉ của một ngân hàng ở Thái Lan và số điện thoại liên hệ để đổi tiền. Đoạn văn liệt kê thông tin về số điện thoại tổng đài dành cho người nước ngoài của các ngân hàng và công ty thẻ tín dụng tại Hàn Quốc, bao gồm ngôn ngữ hỗ trợ tư vấn và dịch vụ ATM, internet banking.
+
+1. Các ngân hàng:
+   - Ngân hàng Jeonbuk, Kyongnam và Busan hỗ trợ tư vấn bằng tiếng Anh và tiếng Trung Quốc, tiếng Nhật Bản.
+   - Ngân hàng Shinhan hỗ trợ nhiều ngôn ngữ như tiếng Anh, tiếng Trung Quốc, tiếng Việt Nam, tiếng Nhật.
+   - Ngân hàng KB Kookmin, Woori và Hana hỗ trợ tư vấn bằng tiếng Anh, tiếng Trung Quốc và có thêm các ngôn ngữ khác như tiếng Việt Nam, tiếng Nga, tiếng Thái Lan, v.v.
+
+2. Các công ty thẻ tín dụng:
+   - Thẻ Hyundai, Lotte và Samsung chủ yếu hỗ trợ tư vấn bằng tiếng Anh.
+   - Thẻ BC, Shinhan, KB Kookmin và Woori hỗ trợ tư vấn bằng nhiều ngôn ngữ như tiếng Anh, tiếng Trung Quốc, tiếng Việt Nam, tiếng Nhật. 
+   - Thẻ Hana hỗ trợ tư vấn bằng tiếng Anh và tiếng Trung Quốc.
+
+3. Hỗ trợ ngôn ngữ khi sử dụng ATM và internet banking:
+   - Ngân hàng Woori và Kookmin hỗ trợ đa ngôn ngữ (tiếng Anh, tiếng Nhật Bản, tiếng Trung Quốc, tiếng Việt Nam, tiếng Mông Cổ, v.v.) cho dịch vụ máy ATM, Internet banking và Smart banking. Ngân hàng Hàn Quốc và các chi nhánh của họ hỗ trợ nhiều loại ngôn ngữ cho các dịch vụ như ATM và banking trên internet và điện thoại di động. Các ngôn ngữ hỗ trợ bao gồm tiếng Anh, tiếng Trung Quốc, tiếng Nhật Bản, tiếng Việt Nam, và nhiều ngôn ngữ khác như tiếng Thái Lan, tiếng Mông Cổ, tiếng Campuchia, tiếng Philippines, tiếng Indonesia, tiếng Nga, tiếng Myanmar, v.v. Ngân hàng Shinhan, Ngân hàng Hana, và Ngân hàng Standard Chartered có các dịch vụ ngân hàng đa ngôn ngữ khác nhau, từ máy ATM đến internet banking và smart banking. Standard Chartered hỗ trợ chủ yếu bằng tiếng Anh cho tất cả các dịch vụ. Bản tóm tắt liệt kê các ngân hàng tại Hàn Quốc cùng với các dịch vụ và ngôn ngữ hỗ trợ, cụ thể như sau:
+
+1. **Ngân hàng Citi (Citi Bank)**:
+   - Máy ATM: Tiếng Anh, tiếng Trung Quốc, tiếng Nhật Bản
+   - Internet banking: Tiếng Anh
+   - Smart banking: Tiếng Anh
+
+2. **Ngân hàng doanh nghiệp vừa và nhỏ (SME Bank)**:
+   - Máy ATM: Tiếng Anh, tiếng Trung Quốc, tiếng Nhật Bản, tiếng Việt Nam, tiếng Indonesia, tiếng Nga, tiếng Nepal
+   - Internet banking: Tiếng Anh
+   - Smart banking: Tiếng Anh cùng nhiều ngôn ngữ khác
+
+3. **Ngân hàng công nghiệp Hàn Quốc (Korea Development Bank)**:
+   - Máy ATM: Tiếng Anh
+   - Internet banking: Tiếng Anh
+   - Smart banking: Tiếng Anh
+
+4. **Ngân hàng Nonghyup (Nonghyup Bank)**:
+   - Máy ATM, Internet banking, và Smart banking: Tiếng Anh, tiếng Nhật Bản, tiếng Trung Quốc, tiếng Việt Nam và nhiều ngôn ngữ khác
+
+5. **Ngân hàng Suhyup (Suhyup Bank)**:
+   - Máy ATM: Tiếng Anh, tiếng Trung Quốc, tiếng Nhật Bản
+   - Smart banking: Tiếng Anh
+
+6. **Ngân hàng Deagu (Daegu Bank)**:
+   - Máy ATM: Tiếng Anh, tiếng Trung Quốc, tiếng Nhật Bản
+   - Internet banking: Tiếng Anh, tiếng Trung Quốc
+   - Smart banking: Tiếng Anh
+
+7. **Ngân hàng Gwangju (Gwangju Bank)**:
+   - Máy ATM: Tiếng Anh, tiếng Trung Quốc, tiếng Nhật Bản
+   - Internet banking: Tiếng Anh
+
+8. **Ngân hàng Jeju (Jeju Bank)**:
+   - Máy ATM: Có 145 máy ATM toàn cầu hỗ trợ ngôn ngữ như tiếng Anh, tiếng Trung Quốc, và tiếng Nhật
+
+9. **Ngân hàng Jeonbuk (Jeonbuk Bank)**:
+   - Máy ATM: Tiếng Anh, tiếng Trung Quốc, tiếng Nhật Bản
+   - Smart banking: Tiếng Anh, tiếng Việt Nam, tiếng Indonesia, tiếng Campuchia, tiếng Myanmar, tiếng Mông Cổ
+
+10. **Ngân hàng Kyongnam**:
+    - Máy ATM: Tiếng Anh, tiếng Trung Quốc, tiếng Việt Nam
+
+Tóm gọn, bản tài liệu này cung cấp thông tin về các ngôn ngữ mà các ngân hàng tại Hàn Quốc hỗ trợ trên các dịch vụ như ATM, Internet banking và Smart banking. Bài viết giới thiệu về các dịch vụ ngân hàng và tài chính tại Hàn Quốc bằng các ngôn ngữ khác nhau. Cụ thể là:
+
+1. Ngân hàng Gyeongnam cung cấp dịch vụ Internet Banking và Smart Banking (Mobile) bằng các ngôn ngữ: tiếng Anh, tiếng Trung Quốc, tiếng Việt, và tiếng Campuchia.
+2. Ngân hàng Busan cung cấp dịch vụ ATM, Internet Banking và Smart Banking (Mobile) bằng các ngôn ngữ: tiếng Anh, tiếng Trung Quốc, và tiếng Nhật Bản.
+3. Bản quyền cẩm nang tài chính cho người nước ngoài thuộc về Viện Giám sát Tài chính Hàn Quốc, phát hành tháng 7 năm 2022.
+4. Ban biên soạn và kiểm định gồm nhiều giáo sư và chuyên gia trong lĩnh vực tài chính và giáo dục tài chính từ các trường đại học và tổ chức tài chính hàng đầu Hàn Quốc.
+
+Cuối cùng, có các thông tin liên lạc và quyền xuất bản của Viện Giám sát Tài chính Hàn Quốc. Trang web w.fss.or.kr/edu là địa chỉ để truy cập các tài liệu giáo dục của Cơ quan Giám sát Tài chính Hàn Quốc. Nếu cần thêm thông tin, bạn có thể liên hệ trung tâm hỗ trợ khách hàng của họ qua số điện thoại 1332."
