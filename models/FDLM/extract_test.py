@@ -46,10 +46,10 @@ def extract_text_from_pdf(pdf_path):
 def process_pdfs_to_text():
     # PDF 파일 경로와 저장할 텍스트 파일 경로
     pdf_files = [
-        ("../../data/Dataset/financeData/originData/외국인을 위한 금융생활 가이드북_베트남어_낱장.pdf", "../../data/Dataset/financeData/cleaned_text_베트남어.txt"),
-        ("../../data/Dataset/financeData/originData/외국인을 위한 금융생활 가이드북_영어_낱장.pdf", "../../data/Dataset/financeData/cleaned_text_영어.txt"),
-        ("../../data/Dataset/financeData/originData/외국인을 위한 금융생활 가이드북_중국어_낱장.pdf", "../../data/Dataset/financeData/cleaned_text_중국어.txt"),
-        ("../../data/Dataset/financeData/originData/외국인을 위한 금융생활 가이드북_태국어_낱장.pdf", "../../data/Dataset/financeData/cleaned_text_태국어.txt")
+        ("../../data/Dataset/financeData/originData/외국인을 위한 금융생활 가이드북_베트남어_낱장.pdf", "../../data/Dataset/financeData/txtData/cleaned_text_베트남어.txt"),
+        ("../../data/Dataset/financeData/originData/외국인을 위한 금융생활 가이드북_영어_낱장.pdf", "../../data/Dataset/financeData/txtData/cleaned_text_영어.txt"),
+        ("../../data/Dataset/financeData/originData/외국인을 위한 금융생활 가이드북_중국어_낱장.pdf", "../../data/Dataset/financeData/txtData/cleaned_text_중국어.txt"),
+        ("../../data/Dataset/financeData/originData/외국인을 위한 금융생활 가이드북_태국어_낱장.pdf", "../../data/Dataset/financeData/txtData/cleaned_text_태국어.txt")
     ]
 
     for pdf_path, text_path in pdf_files:
