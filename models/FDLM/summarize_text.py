@@ -5,7 +5,7 @@ import pandas as pd
 import os
 import httpx
 from dotenv import load_dotenv
-
+import re
 # API 키 설정 및 클라이언트 생성
 # .env 파일 로드
 load_dotenv()
@@ -24,7 +24,28 @@ def check_openai_connection():
         print(f"OpenAI 연결 오류: {e}")
         return False
 
-def summarize_text_chunked(text, language, chunk_size=3000):
+def extract_sections(text):
+    # 정규식을 사용하여 섹션 제목을 추출하고, 섹션별로 텍스트를 나눕니다.
+    section_pattern = re.compile(r'(\d+\.\s.*?)\n')
+    sections = section_pattern.split(text)
+    
+    section_dict = {}
+    current_section = "Introduction"
+    content = ""
+    for part in sections:
+        if re.match(section_pattern, part):
+            if content:
+                section_dict[current_section] = content.strip()
+            current_section = part.strip()
+            content = ""
+        else:
+            content += part.strip() + " "
+    if content:
+        section_dict[current_section] = content.strip()
+    
+    return section_dict
+
+def summarize_text_chunked(text, language, chunk_size=2500):
     headers = {
         'Authorization': f'Bearer {client.api_key}',
         'Content-Type': 'application/json',
@@ -63,11 +84,14 @@ def process_text_to_csv(input_file, output_file, language):
     with open(input_file, 'r', encoding='utf-8') as f:
         text = f.read()
 
-    summary = summarize_text_chunked(text, language)
-    
-    # CSV로 저장하기 위해 데이터프레임 생성
-    df = pd.DataFrame([{'Section': 'General', 'Summary': summary}])
-    
+    sections = extract_sections(text)
+    summarized_data = []
+
+    for section, content in sections.items():
+        summary = summarize_text_chunked(content, language)
+        summarized_data.append({'Section': section, 'Summary': summary})
+
+    df = pd.DataFrame(summarized_data)
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
     df.to_csv(output_file, index=False, encoding='utf-8-sig')
     print(f"요약 결과가 {output_file} 파일에 저장되었습니다.")
