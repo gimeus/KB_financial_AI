@@ -54,14 +54,6 @@
   color: #fff;
 }
 
-.language-setting {
-  background-color: transparent;
-  border: none;
-  cursor: pointer;
-  padding: 0;
-  margin-right: 26px;
-}
-
 .end-chat {
   background-color: transparent;
   color: #fc0;
