@@ -59,12 +59,28 @@ def save_message(message: Message):
 
     return {"message": "Message stored successfully"}
 
+@app.get("/messages/")
+def get_messages():
+    if db is None:
+        raise HTTPException(status_code=500, detail="Database not connected")
+    
+    cursor = db.cursor(dictionary=True)
+    try:
+        cursor.execute("SELECT * FROM messages ORDER BY time DESC")
+        messages = cursor.fetchall()
+        return messages
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Failed to fetch messages from DB: {e}")
+    finally:
+        cursor.close()
+
+
 # test3.py를 실행하는 엔드포인트 추가
 @app.post("/start-recording")
 def start_recording():
     try:
         # test3.py 스크립트를 실행
-        subprocess.Popen(["python", "../../models/FDLM/test3.py"])
+        subprocess.Popen(["python", "../../models/FDLM/multilingual_chatbot.py"])
         return {"message": "Recording started"}
     except Exception as e:
         return {"message": f"Error: {e}"}

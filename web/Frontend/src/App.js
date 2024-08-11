@@ -22,10 +22,27 @@ const App = () => {
     }
   };
 
-  // 마운트 시 데이터베이스 연결 상태 확인
+  // 마운트 시 데이터베이스 연결 상태 확인 및 주기적으로 메시지 가져오기
   useEffect(() => {
     checkDbConnection();
+    fetchMessages(); // 초기 메시지 가져오기
+    
+    // 5초마다 메시지 갱신
+    const interval = setInterval(fetchMessages, 3000);
+    // 컴포넌트 언마운트 시 인터벌 정리
+    return () => clearInterval(interval);
   }, []);
+
+// 데이터베이스에서 메시지 가져오기
+const fetchMessages = async () => {
+  try {
+    const response = await axios.get('http://localhost:8000/messages/');
+    console.log('Messages fetched:', response.data);
+    setMessageList(response.data);
+  } catch (error) {
+    console.error('Failed to fetch messages:', error.response || error.message);
+  }
+};
 
   // // 샘플 메시지 저장 함수
   // const saveSampleMessageToDB = async () => {
@@ -46,11 +63,18 @@ const App = () => {
   //   }
   // };
 
-  // MicButton 클릭 시 샘플 메시지 저장
+  // MicButton 클릭 시 test3.py 실행 및 메시지 가져오기 시작
   const handleMicButtonClick = async () => {
     try {
       const response = await axios.post('http://localhost:8000/start-recording');
       console.log('Recording started:', response.data.message);
+
+      // 5초마다 메시지 갱신
+      setListening(true);
+      const interval = setInterval(fetchMessages, 5000);
+
+      // 녹음 종료 시 인터벌 정리
+      return () => clearInterval(interval);
     } catch (error) {
       console.error('Failed to start recording:', error);
     }
