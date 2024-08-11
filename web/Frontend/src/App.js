@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import './App.css';
 import StatusBar from './components/StatusBar';
@@ -9,75 +9,58 @@ import MicButton from './components/MicButton';
 const App = () => {
   const [messageList, setMessageList] = useState([]);
   const [listening, setListening] = useState(false);
+  const [dbStatus, setDbStatus] = useState("Checking database connection...");
 
-  // 메시지 저장 함수
-  const saveMessageToDB = async (message) => {
+  // 데이터베이스 연결 상태 확인 함수
+  const checkDbConnection = async () => {
     try {
-      await axios.post('http://localhost:8001/messages/', message);
-      console.log('Message saved to DB');
+      const response = await axios.get('http://localhost:8000/test-db/');
+      setDbStatus(response.data.message);
     } catch (error) {
-      console.error('Failed to save message to DB:', error);
+      console.error('Failed to connect to database:', error);
+      setDbStatus("Database connection failed");
     }
   };
 
-  // Web Speech API를 사용한 음성 인식 함수
-  const handleStart = () => {
-    const SpeechRecognition =
-      window.SpeechRecognition || window.webkitSpeechRecognition;
+  // 마운트 시 데이터베이스 연결 상태 확인
+  useEffect(() => {
+    checkDbConnection();
+  }, []);
 
-    if (!SpeechRecognition) {
-      alert(
-        'Your browser does not support Speech Recognition. Please try using Chrome or Edge.'
-      );
-      return;
+  // // 샘플 메시지 저장 함수
+  // const saveSampleMessageToDB = async () => {
+  //   const sampleMessage = {
+  //     type: 'user',
+  //     text: 'This is a sample message',
+  //     time: new Date().toLocaleTimeString(),
+  //   };
+
+  //   try {
+  //     await axios.post('http://localhost:8000/messages/', sampleMessage);
+  //     console.log('Sample message saved to DB:', sampleMessage);
+
+  //     // 메시지 리스트 업데이트
+  //     setMessageList((prevMessages) => [...prevMessages, sampleMessage]);
+  //   } catch (error) {
+  //     console.error('Failed to save sample message to DB:', error);
+  //   }
+  // };
+
+  // MicButton 클릭 시 샘플 메시지 저장
+  const handleMicButtonClick = async () => {
+    try {
+      const response = await axios.post('http://localhost:8000/start-recording');
+      console.log('Recording started:', response.data.message);
+    } catch (error) {
+      console.error('Failed to start recording:', error);
     }
-
-    const recognition = new SpeechRecognition();
-    recognition.lang = 'en-US';
-    recognition.interimResults = false;
-    recognition.maxAlternatives = 1;
-
-    recognition.onstart = () => {
-      console.log('Voice recognition started.');
-      setListening(true);
-    };
-
-    recognition.onresult = (event) => {
-      const transcript = event.results[0][0].transcript;
-      console.log('Transcription:', transcript);
-
-      const newMessage = {
-        type: 'user',
-        text: transcript,
-        time: new Date().toLocaleTimeString(),
-      };
-
-      // 메시지 리스트 업데이트
-      setMessageList((prevMessages) => [...prevMessages, newMessage]);
-
-      // 데이터베이스에 저장
-      saveMessageToDB(newMessage);
-
-      setListening(false);
-    };
-
-    recognition.onerror = (event) => {
-      console.error('Recognition error:', event.error);
-      setListening(false);
-    };
-
-    recognition.onend = () => {
-      console.log('Voice recognition ended.');
-      setListening(false);
-    };
-
-    recognition.start();
   };
 
   return (
     <div className="app">
       <StatusBar />
       <Header />
+      <p>{dbStatus}</p>
       <div className="chat-window">
         {messageList.map((message, index) => (
           <ChatMessage key={index} type={message.type} time={message.time}>
@@ -85,7 +68,7 @@ const App = () => {
           </ChatMessage>
         ))}
       </div>
-      <MicButton listening={listening} onClick={handleStart} />
+      <MicButton listening={listening} onClick={handleMicButtonClick} />
     </div>
   );
 };

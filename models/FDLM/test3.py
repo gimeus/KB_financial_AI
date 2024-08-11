@@ -9,6 +9,8 @@ from dotenv import load_dotenv
 import time
 import playsound
 from fuzzywuzzy import fuzz
+import mysql.connector
+from datetime import datetime
 
 # 환경 변수에서 API 키 로드
 load_dotenv()
@@ -17,6 +19,31 @@ client = OpenAI(api_key=api_key)
 
 # CSV 파일을 데이터프레임으로 로드
 csv_file = pd.read_csv("../../data/Dataset/financeData/processedData/Combined_FAQ.csv")
+
+
+# MySQL 데이터베이스 연결 설정
+db = mysql.connector.connect(
+    host="localhost",
+    user="root",
+    password="1234",
+    database="chatbot_db"
+)
+
+# 사용자 입력을 데이터베이스에 저장하는 함수
+def save_message_to_db(message_type, message_text):
+    cursor = db.cursor()
+    sql = "INSERT INTO messages (type, text, time) VALUES (%s, %s, %s)"
+    val = (message_type, message_text, datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
+    try:
+        cursor.execute(sql, val)
+        db.commit()
+        print(f"{message_type.capitalize()} message saved to DB: {message_text}")
+    except Exception as e:
+        db.rollback()
+        print(f"Failed to save message to DB: {e}")
+    finally:
+        cursor.close()
+
 
 # 음성 입력을 텍스트로 변환하는 함수 (Whisper 모델 사용)
 def transcribe_audio_to_text(file_path):
@@ -98,9 +125,15 @@ while True:
     user_input = transcribe_audio_to_text(file_path)
     print(f"You said: {user_input}")
 
+    # 사용자 입력을 데이터베이스에 저장
+    save_message_to_db('user', user_input)
+
     # GPT 모델에 입력을 전달하여 응답 생성
     gpt_reply = generate_response(user_input)
     print(f"GPT: {gpt_reply}")
+
+    # GPT 응답을 데이터베이스에 저장
+    save_message_to_db('gpt', gpt_reply)
 
     # TTS를 통해 텍스트를 실시간으로 출력
     text_to_speech(gpt_reply)
