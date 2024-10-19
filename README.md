@@ -2,7 +2,7 @@
 <h1>
 KB 외국인 금융 음성 어시스턴트 서비스
 </h1>
-<!-- <img src=""/> -->
+<img src="https://github.com/user-attachments/assets/9513beb7-a657-4a44-a096-c86b0c6bfc50"/>
 </div>
 
 ⠀
