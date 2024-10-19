@@ -16,7 +16,8 @@
 ⠀
 ## 프로젝트 소개
 외국인 고객들이 한국어의 장벽 없이 금융 서비스를 쉽게 이용할 수 있도록 돕는 것을 목표로 하고 있습니다.</br>
-실시간 다국어 지원과 금융 데이터 학습을 통해 정확한 금융 상담을 제공하며, 복잡한 대면 상담 절차를 간소화하여 사용자 경험을 개선하고자 합니다.
+실시간 다국어 지원과 금융 데이터 학습을 통해 정확한 금융 상담을 제공하며,</br>
+복잡한 대면 상담 절차를 간소화하여 사용자 경험을 개선하고자 합니다.
 
 ⠀
 ⠀
@@ -47,7 +48,7 @@
   <tr>
     <td align="center"><a href="https://github.com/csh991414" target="_blank">@csh991414</a></td>
     <td align="center"><a href="https://github.com/gimeus" target="_blank">@gimeus</a></td>
-    <td align="center"><a href="https://github.com" target="_blank">@-</a></td>
+    <td align="center"><a href="https://github.com" target="_blank">@</a></td>
   </tr>
 </table>
 
